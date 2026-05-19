@@ -143,7 +143,7 @@ La experiencia de entrada.
 
 <br>
 
-Una guía más simple y práctica para:
+Una guía práctica para:
 - preparar el extracto
 - conservarlo
 - utilizarlo
@@ -170,7 +170,7 @@ La capa técnica y experimental.
 ## BIBLIOGRAFÍA
 Base científica y referencias utilizadas dentro del proyecto.
 
-→ [Entrar en Bibliografía](bibliografia/)
+→ [Entrar en Bibliografía](docs/bibliografia/)
 
 ---
 
@@ -215,13 +215,3 @@ Representa un sistema vivo en evolución constante.
 
 ---
 
-# BIENVENIDO
-
-Gracias por entrar en Quercus Flumen.
-
-<br>
-
-Esperamos que esta estructura permita recorrer el proyecto de una forma:
-- clara
-- profunda
-- y más cercana al verdadero origen de Wild
