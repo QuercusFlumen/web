@@ -71,16 +71,8 @@ Puedes escribirnos directamente a:
 
 <br>
 
-📩 contacto@quercusflumen.com
+📩 quercusflumen@gmail.com
 
 <br>
 
-Intentaremos responder lo antes posible.
-
----
-
-# CONTENIDO RELACIONADO
-
-- [Quercus Flumen](index.md)
-- [Wild](wild/)
-- [Preg
+Intentaremos responder lo antes posible
