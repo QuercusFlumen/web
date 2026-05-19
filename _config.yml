@@ -1,0 +1,51 @@
+title: Quercus Flumen
+tagline: "Observación y transformación forestal aplicada al agua"
+
+description: "Observación y transformación forestal aplicada al agua. Extractos botánicos forestales para acuarios naturalistas, sistemas blackwater y biotopos acuáticos."
+
+url: "https://www.quercusflumen.com"
+baseurl: ""
+
+lang: es-ES
+locale: es_ES
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+logo: "/quercus_flumen_logo_transparente_ajustado.png"
+image: "/quercus_flumen_logo_transparente_ajustado.png"
+
+author:
+  name: "Quercus Flumen"
+  url: "https://www.quercusflumen.com"
+
+twitter:
+  card: summary_large_image
+
+social:
+  name: "Quercus Flumen"
+  links:
+    - "https://www.quercusflumen.com"
+
+color_scheme: light
+
+search_enabled: false
+search_button_text: "Buscar"
+
+nav_enabled: true
+nav_sort: case_insensitive
+
+heading_anchors: true
+gh_edit_link: false
+
+aux_links_new_tab: false
+
+toc:
+  h2: "Índice"
+
+back_to_top: true
+back_to_top_text: "Volver arriba"
