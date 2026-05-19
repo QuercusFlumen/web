@@ -7,7 +7,7 @@ description: Observación y transformación forestal aplicada al agua
 
 # BIENVENIDOS A NUESTRA WEB
 <br>
-Quercus Flumen nace desde años de observación de:
+Quercus Flumen nace observando:
 - bosque
 - agua
 - transformación vegetal
