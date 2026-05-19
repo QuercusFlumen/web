@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Artículos
+nav_exclude: true
 nav_order: 5
 has_children: true
 description: "Archivo divulgativo de Quercus Flumen sobre blackwater, materia orgánica disuelta, hojas, microbiología y ecosistemas acuáticos naturalistas."
