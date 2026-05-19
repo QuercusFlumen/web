@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Construyendo el equilibrio
+parent: Wild
+nav_order: 5
 description: Botánicos, estabilidad y el origen práctico de Wild
 ---
 
