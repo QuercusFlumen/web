@@ -26,7 +26,7 @@ Ni como una marca.
 <br>
 
 Nació desde la experiencia prolongada dentro de un entorno forestal real:
-un robledal y castañar maduro situado en la Sierra de Francia, dentro del entorno de El Casarito y la Peña de Francia.
+un robledal maduro situado en la Sierra de Francia, dentro del entorno de El Casarito y la Peña de Francia.
 
 ---
 
