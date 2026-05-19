@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mapa del sitio
+nav_exclude: true
 nav_order: 95
 description: "Mapa estructural de páginas y documentación pública de Quercus Flumen."
 ---
