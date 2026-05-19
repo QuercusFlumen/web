@@ -9,7 +9,7 @@ description: Concentrado Botánico Forestal desarrollado por Quercus Flumen
 # WILD  
 ## Concentrado Botánico Forestal desarrollado por Quercus Flumen
 
-Wild nace como consecuencia de años de:
+Wild nace como consecuencia de:
 - observación
 - experiencia
 - transformación vegetal
@@ -29,13 +29,13 @@ Wild surge desde una pregunta mucho más profunda:
 
 <br>
 
-> ¿cómo se transforma realmente la materia vegetal dentro de un ecosistema forestal húmedo y estable?
+> ¿cómo se transforma realmente la materia vegetal dentro de un ecosistema forestal estable?
 
 ---
 
 # MÁS QUE HOJAS
 
-Wild no debe entenderse únicamente como:
+Wild no debe entenderse únicamente como
 una mezcla de hojas o un simple producto blackwater.
 
 <br>
@@ -49,7 +49,7 @@ Wild es un Concentrado Botánico Forestal desarrollado desde años de observaci�
 
 <br>
 
-El proyecto observó durante años:
+El proyecto observó continuamente:
 - hojas evolucionando lentamente
 - degradación progresiva
 - compactación natural
@@ -58,14 +58,13 @@ El proyecto observó durante años:
 
 <br>
 
-El acuario apareció después como:
-un espacio donde reinterpretar parte de esas dinámicas naturales.
+El acuario apareció después como un espacio donde reinterpretar parte de esas dinámicas naturales.
 
 ---
 
 # UN SISTEMA, NO UNA FÓRMULA SIMPLE
 
-Wild no intenta simplificar artificialmente el blackwater.
+Wild no intenta simplificar artificialmente los entornos blackwater.
 
 <br>
 
@@ -81,7 +80,7 @@ El sistema trabaja desde:
 Por ese motivo:
 Wild puede comportarse de manera distinta según:
 - agua utilizada
-- extracción
+- metodología de extracción
 - conservación
 - dosificación
 - sistema biológico
@@ -92,13 +91,11 @@ Wild puede comportarse de manera distinta según:
 
 # TRANSFORMACIÓN Y FASES
 
-Uno de los principios más importantes dentro de Wild es:
-la transformación vegetal progresiva.
+Uno de los principios más importantes dentro de Wild es la transformación vegetal progresiva.
 
 <br>
 
-Quercus Flumen observó durante años:
-cómo distintas fases de transformación modificaban:
+Quercus Flumen observó durante años cómo distintas fases de transformación modificaban:
 - comportamiento
 - estabilidad
 - coloración
@@ -109,15 +106,13 @@ cómo distintas fases de transformación modificaban:
 
 Wild no trabaja desde una única fase vegetal.
 
-Trabaja desde:
-una combinación diseñada de fracciones complementarias.
+Trabaja desde una combinación diseñada de fracciones complementarias con diferentes grados de maduración.
 
 ---
 
 # PERFIL COMPLEJO
 
-Wild no busca únicamente:
-teñir el agua.
+Wild no busca únicamente teñir el agua.
 
 <br>
 
@@ -130,8 +125,7 @@ El sistema intenta aportar:
 
 <br>
 
-Por ese motivo:
-el comportamiento visual del agua es solamente una pequeña parte del sistema.
+Por ese motivo el comportamiento visual del agua es solamente una pequeña parte del sistema.
 
 ---
 
@@ -150,11 +144,9 @@ El sistema:
 
 <br>
 
-Quercus Flumen no entiende Wild como:
-una fórmula definitiva.
+Quercus Flumen no entiende Wild como una fórmula definitiva.
 
-Lo entiende como:
-un sistema vivo en evolución continua.
+Lo entiende como un sistema vivo en evolución continua.
 
 ---
 
@@ -198,8 +190,4 @@ Wild no representa una conclusión cerrada.
 
 <br>
 
-Representa:
-años de observación,
-transformación,
-investigación
-y evolución constante dentro de Quercus Flumen.
+Representa años de observación, transformación, investigación y evolución constante dentro de Quercus Flumen.
