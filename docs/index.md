@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Documentación
+nav_exclude: true
 nav_order: 90
 description: "Documentación técnica sobre extracción, transformación vegetal, microbiología, blackwater y comportamiento de sistemas acuáticos naturalistas."
 has_children: true
