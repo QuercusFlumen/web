@@ -5,10 +5,7 @@ nav_order: 1
 description: Observación y transformación forestal aplicada al agua
 ---
 
-# QUERCUS FLUMEN  
-## Observación y transformación forestal aplicada al agua
-
-Bienvenido a Quercus Flumen.
+# BIENVENIDOS A QUERCUS FLUMEN  
 
 <br>
 
