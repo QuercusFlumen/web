@@ -34,6 +34,19 @@ Wild surge desde una pregunta mucho más profunda:
 ---
 
 # MÁS QUE HOJAS
+## Wild trabaja sobre hoja de *Quercus pyrenaica*
+
+Wild se desarrolla exclusivamente a partir de distintas fases de transformación y maduración vegetal de hoja de roble *Quercus pyrenaica*.
+
+<br>
+
+La complejidad del sistema no procede de mezclar múltiples materiales forestales distintos.
+
+Procede de observar cómo una misma hoja evoluciona y desarrolla una transformación progresiva dentro del bosque.
+
+<br>
+
+Wild interpreta precisamente esa evolución vegetal aplicada al entorno acuático.
 
 Wild no debe entenderse únicamente como
 una mezcla de hojas o un simple producto blackwater.
@@ -45,7 +58,7 @@ Wild es un Concentrado Botánico Forestal desarrollado desde años de observaci�
 - acumulación orgánica
 - humedad
 - microbiología
-- y comportamiento ecológico dentro del bosque
+- y comportamiento ecológico dentro de su entorno
 
 <br>
 
