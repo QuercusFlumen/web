@@ -202,17 +202,16 @@ Algunos textos especialmente relacionados con el origen del proyecto son:
 
 <br>
 
-→ [Lo que ocurre bajo las hojas](../../articulos/observacion/lo-que-ocurre-bajo-las-hojas/)
+→ [Lo que ocurre bajo las hojas](../../articulos/observacion/lo-que-ocurre-bajo-las-hojas.md)
 
-→ [Agua, bosque y continuidad ecológica](../../articulos/ecologia/agua-bosque-y-continuidad-ecologica/)
+→ [Agua, bosque y continuidad ecológica](../../articulos/ecologia/agua-bosque-y-continuidad-ecologica.md)
 
-→ [Qué ocurre realmente cuando una hoja envejece](../../articulos/hojas-y-botanicos/que-ocurre-realmente-cuando-una-hoja-envejece/)
+→ [Qué ocurre realmente cuando una hoja envejece](../../articulos/hojas-y-botanicos/que-ocurre-realmente-cuando-una-hoja-envejece.md)
 
-→ [El valor de la transformación lenta](../../articulos/ecologia/el-valor-de-la-transformacion-lenta/)
+→ [El valor de la transformación lenta](../../articulos/ecologia/el-valor-de-la-transformacion-lenta.md)
 
-→ [El bosque no funciona de forma instantánea](../../articulos/ecologia/el-bosque-no-funciona-de-forma-instantanea/)
+→ [El bosque no funciona de forma instantánea](../../articulos/ecologia/el-bosque-no-funciona-de-forma-instantanea.md)
 
----
 ---
 
 # CONTINUIDAD
