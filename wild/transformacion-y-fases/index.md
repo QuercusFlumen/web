@@ -326,6 +326,28 @@ La interpreta como un material vivo en transformación continua.
 
 ---
 
+## ARTÍCULOS RELACIONADOS
+
+La transformación vegetal observada dentro de Wild también se desarrolla de forma más profunda dentro de distintos artículos relacionados con:
+- humedad
+- evolución de la hoja
+- continuidad ecológica
+- y transformación progresiva del entorno forestal.
+
+<br>
+
+→ [Qué ocurre realmente cuando una hoja envejece](../../articulos/hojas-y-botanicos/que-ocurre-realmente-cuando-una-hoja-envejece.md)
+
+→ [El problema de interpretar todas las hojas igual](../../articulos/hojas-y-botanicos/el-problema-de-interpretar-todas-las-hojas-igual.md)
+
+→ [Lo que ocurre bajo las hojas](../../articulos/observacion/lo-que-ocurre-bajo-las-hojas.md)
+
+→ [El valor de la transformación lenta](../../articulos/ecologia/el-valor-de-la-transformacion-lenta.md)
+
+→ [El bosque no funciona de forma instantánea](../../articulos/ecologia/el-bosque-no-funciona-de-forma-instantanea.md)
+
+---
+
 # RECORRER WILD
 
 → [Qué es Wild](../que-es-wild/)
