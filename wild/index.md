@@ -9,157 +9,166 @@ description: Concentrado Botánico Forestal desarrollado por Quercus Flumen
 # WILD  
 ## Concentrado Botánico Forestal desarrollado por Quercus Flumen
 
-Wild nace como consecuencia de:
-- observación
-- experiencia
-- transformación vegetal
-- investigación
-- y desarrollo progresivo dentro de Quercus Flumen
+Wild nace desde observación, transformación vegetal y evolución progresiva dentro de Quercus Flumen.
 
 <br>
 
-No surge como:
-- un simple producto blackwater
+El producto no aparece intentando construir simplemente:
+- agua oscura
 - una mezcla estética de hojas
-- ni una solución instantánea
+- o un blackwater visual.
 
 <br>
 
-Wild surge desde una pregunta mucho más profunda:
+Wild surge intentando comprender algo mucho más profundo:
 
 <br>
 
-> ¿cómo se transforma realmente la materia vegetal dentro de un ecosistema forestal estable?
+> cómo evoluciona realmente la materia vegetal dentro del tiempo y cómo esa transformación modifica el comportamiento del agua.
 
 ---
 
-# MÁS QUE HOJAS
-## Wild trabaja sobre hoja de *Quercus pyrenaica*
+# UNA MISMA HOJA, DISTINTOS PERFILES
 
-Wild se desarrolla exclusivamente a partir de distintas fases de transformación y maduración vegetal de hoja de roble *Quercus pyrenaica*.
-
-<br>
-
-La complejidad del sistema no procede de mezclar múltiples materiales forestales distintos.
-
-Procede de observar cómo una misma hoja evoluciona y madura dentro del bosque.
+Wild trabaja exclusivamente sobre hoja de *Quercus pyrenaica*.
 
 <br>
 
-Wild interpreta precisamente esa evolución vegetal aplicada al entorno acuático.
+La complejidad del producto no nace de mezclar múltiples materiales forestales distintos.
 
-Wild no debe entenderse únicamente como
-una mezcla de hojas o un simple producto blackwater.
-
-<br>
-
-Wild es un Concentrado Botánico Forestal desarrollado desde años de observación de:
-- transformación vegetal
-- acumulación orgánica
+Nace de observar cómo una misma hoja cambia progresivamente mientras interactúa con:
 - humedad
+- oxidación
 - microbiología
-- y comportamiento ecológico dentro de su entorno
+- acumulación orgánica
+- y comportamiento natural del bosque.
 
 <br>
 
-El proyecto observó continuamente:
-- hojas evolucionando lentamente
-- degradación progresiva
-- compactación natural
-- transformación del suelo
-- y comportamiento orgánico dentro del ecosistema forestal
+Con el tiempo, la hoja desarrolla perfiles completamente distintos.
+
+Algunas fases resultan:
+más rápidas,
+más visuales
+o más reactivas.
 
 <br>
 
-El acuario apareció después como un espacio donde reinterpretar parte de esas dinámicas naturales.
+Otras:
+evolucionan hacia comportamientos más profundos, más progresivos y más estables dentro del agua.
+
+<br>
+
+Wild intenta precisamente preservar y recombinar parte de esos perfiles evolutivos.
 
 ---
 
-# UN SISTEMA, NO UNA FÓRMULA SIMPLE
+# MUCHO MÁS QUE COLOR
+
+Wild no trabaja únicamente desde coloración o taninos rápidos.
+
+<br>
+
+Durante la extracción y evolución del concentrado aparecen progresivamente perfiles relacionados con:
+- materia orgánica disuelta
+- compuestos fenólicos
+- taninos transformados
+- perfiles húmicos y fúlvicos
+- microbiología
+- y evolución orgánica natural del agua.
+
+<br>
+
+Por ese motivo, el comportamiento de Wild no depende solamente de:
+- intensidad visual
+- oscuridad
+- o color inicial.
+
+<br>
+
+Parte importante de su profundidad aparece de forma lenta y progresiva dentro del tiempo.
+
+---
+
+# UN PRODUCTO QUE EVOLUCIONA
+
+Wild no debe interpretarse como una fórmula completamente rígida o estática.
+
+<br>
+
+Cada extracción:
+- evoluciona de forma distinta
+- responde de forma distinta
+- y desarrolla comportamientos propios según:
+  - agua utilizada
+  - estabilidad biológica
+  - microbiología
+  - reducción
+  - conservación
+  - y evolución general del acuario.
+
+<br>
+
+Precisamente ahí aparece una de las partes más importantes del producto.
+
+<br>
 
 Wild no intenta simplificar artificialmente los entornos blackwater.
 
-<br>
-
-El sistema trabaja desde:
-- complejidad orgánica
-- interacción entre fracciones vegetales
-- transformación progresiva
-- comportamiento dinámico
-- y evolución del agua con el tiempo
-
-<br>
-
-Por ese motivo:
-Wild puede comportarse de manera distinta según:
-- agua utilizada
-- metodología de extracción
-- conservación
-- dosificación
-- sistema biológico
-- microbiología
-- y evolución del acuario
+Intenta aproximarse a determinados comportamientos observados en aguas naturales ricas en materia vegetal, pero desde una herramienta:
+- más interpretable
+- más flexible
+- y relativamente más estable dentro del tiempo.
 
 ---
 
-# TRANSFORMACIÓN Y FASES
+# OBSERVACIÓN Y DESARROLLO
 
-Uno de los principios más importantes dentro de Wild es la transformación vegetal progresiva.
-
-<br>
-
-Quercus Flumen observó durante años cómo distintas fases de transformación modificaban:
-- comportamiento
-- estabilidad
-- coloración
-- liberación orgánica
-- y dinámica del sistema
+Gran parte del desarrollo de Wild nació trabajando directamente con:
+- hojas
+- raíces
+- semillas
+- y distintos botánicos naturales dentro del acuario.
 
 <br>
 
-Wild no trabaja desde una única fase vegetal.
+Con el tiempo comenzó a resultar evidente que el verdadero reto no era simplemente oscurecer el agua.
 
-Trabaja desde una combinación diseñada de fracciones complementarias con diferentes grados de maduración.
+<br>
+
+El verdadero reto era intentar construir entornos:
+- complejos
+- progresivos
+- relativamente estables
+- y coherentes dentro del tiempo.
+
+<br>
+
+Y precisamente ahí Wild comenzó a aparecer lentamente como producto.
 
 ---
 
-# PERFIL COMPLEJO
+# UNA HERRAMIENTA NATURAL
 
-Wild no busca únicamente teñir el agua.
-
-<br>
-
-El sistema intenta aportar:
-- complejidad orgánica
-- comportamiento progresivo
-- estabilidad
-- interacción microbiológica
-- y evolución natural del entorno acuático
+Wild continúa funcionando mejor como:
+una herramienta flexible y progresiva.
 
 <br>
 
-Por ese motivo el comportamiento visual del agua es solamente una pequeña parte del sistema.
-
----
-
-# UNA HERRAMIENTA EN EVOLUCIÓN
-
-Wild continúa evolucionando constantemente.
+El producto puede adaptarse a:
+- distintos tipos de agua
+- perfiles más suaves o más profundos
+- sistemas más visuales o más orgánicos
+- y diferentes estilos de interpretación del blackwater.
 
 <br>
 
-El sistema:
-- observa
-- corrige
-- reorganiza
-- prueba
-- e interpreta continuamente nuevos comportamientos
+No existe una única forma exacta de trabajar Wild.
 
-<br>
-
-Quercus Flumen no entiende Wild como una fórmula definitiva.
-
-Lo entiende como un sistema vivo en evolución continua.
+Parte importante de la experiencia consiste precisamente en:
+- observar el agua
+- comprender cómo evoluciona el concentrado
+- y permitir que el entorno acuático se desarrolle progresivamente.
 
 ---
 
@@ -170,37 +179,63 @@ Dentro de esta sección encontrarás:
 ---
 
 ## QUÉ ES WILD
-Origen, concepto y fundamentos del sistema.
+
+Origen, construcción y fundamentos del producto.
 
 → [Entrar en Qué es Wild](que-es-wild/)
 
 ---
 
 ## TRANSFORMACIÓN Y FASES
-La importancia de la transformación vegetal y la evolución progresiva de la materia orgánica.
+
+Cómo evoluciona la hoja y por qué distintas fases desarrollan perfiles completamente diferentes dentro del agua.
 
 → [Entrar en Transformación y fases](transformacion-y-fases/)
 
 ---
 
 ## PERFIL Y COMPORTAMIENTO
-Comportamiento del sistema dentro del agua y evolución del entorno acuático.
+
+DOM, evolución orgánica, comportamiento progresivo y complejidad del agua después de utilizar Wild.
 
 → [Entrar en Perfil y comportamiento](perfil-y-comportamiento/)
 
 ---
 
-## DESARROLLO DEL SISTEMA
-Evolución experimental, experiencia acumulada y desarrollo continuo de Wild.
+## BENEFICIOS FLORA Y FAUNA
 
-→ [Entrar en Desarrollo del sistema](desarrollo-del-sistema/)
+Posibles aportes de Wild dentro de sistemas acuáticos naturalistas orientados a estabilidad, complejidad y evolución progresiva.
+
+→ [Entrar en Beneficios flora y fauna](beneficios-flora-y-fauna/)
+
+---
+
+## DESARROLLO DE WILD
+
+Observación, botánicos, estabilidad y evolución progresiva del producto dentro de Quercus Flumen.
+
+→ [Entrar en Desarrollo de Wild](desarrollo-de-wild/)
 
 ---
 
 # CONTINUIDAD
 
-Wild no representa una conclusión cerrada.
+Wild continúa evolucionando constantemente.
 
 <br>
 
-Representa años de observación, transformación, investigación y evolución constante dentro de Quercus Flumen.
+Cada extracción,
+cada sistema
+y cada acuario
+continúan aportando información nueva sobre:
+- comportamiento del agua
+- estabilidad
+- microbiología
+- transformación vegetal
+- y evolución orgánica del entorno acuático.
+
+<br>
+
+Quercus Flumen no interpreta Wild como un producto completamente cerrado.
+
+Lo interpreta como una herramienta natural en evolución continua.
