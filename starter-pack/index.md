@@ -75,7 +75,7 @@ Aunque Wild puede trabajarse de múltiples maneras,
 Quercus Flumen desarrolló con el tiempo una extracción base que considera:
 - equilibrada
 - versátil
-- relativamente estable
+- estable
 - y especialmente útil como punto de partida.
 
 <br>
