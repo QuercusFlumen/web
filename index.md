@@ -122,7 +122,7 @@ Aquí se desarrolla:
 ---
 
 ## WILD
-El sistema desarrollado por Quercus Flumen.
+Nuestro producto.Un concentrado botánico forestal para obtener liquidos concentrados de perfil complejo.
 
 <br>
 
@@ -139,11 +139,11 @@ Aquí se explica:
 ---
 
 ## STARTER PACK
-La experiencia de entrada.
+La experiencia de entrada. Nuestro primer formato comercial "Starter Pack 20g"
 
 <br>
 
-Una guía práctica para:
+En esta sección encontrarás una guía práctica de uso para:
 - preparar el extracto
 - conservarlo
 - utilizarlo
