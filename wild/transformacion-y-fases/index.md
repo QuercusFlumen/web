@@ -3,70 +3,95 @@ layout: default
 title: Transformación y fases
 parent: Wild
 nav_order: 2
-description: Transformación vegetal progresiva y preservación de perfiles naturales
+description: Transformación vegetal progresiva, preservación de perfiles naturales y construcción evolutiva de Wild
 ---
 
 # TRANSFORMACIÓN Y FASES  
-## La evolución natural de la materia vegetal
+## La evolución natural de una misma hoja
 
-Uno de los principios más importantes dentro de Wild es:
-la transformación progresiva de la materia vegetal.
-
-<br>
-
-Las hojas y fracciones vegetales:
-no mantienen siempre el mismo comportamiento.
+Uno de los principios más importantes dentro de Wild es la transformación progresiva de la materia vegetal.
 
 <br>
 
-Con el tiempo:
-- evolucionan
-- se transforman
-- interactúan con humedad y microbiología
-- modifican su estructura
-- y desarrollan perfiles orgánicos distintos
+Wild trabaja exclusivamente sobre hoja de *Quercus pyrenaica*, pero no interpreta esa hoja como un material uniforme o estático.
+
+Con el tiempo, la humedad, la oxidación, la microbiología y el propio comportamiento del bosque modifican lentamente su estructura y su perfil orgánico. La hoja cambia. Evoluciona. Y cada momento de esa evolución desarrolla comportamientos distintos dentro del agua.
 
 <br>
 
-Parte importante de Quercus Flumen consiste precisamente en:
-observar cuidadosamente cómo esa evolución modifica el comportamiento del sistema.
+Precisamente ahí nace una de las ideas centrales de Wild:
+
+<br>
+
+> una misma hoja puede desarrollar perfiles profundamente diferentes según su estado de transformación.
 
 ---
 
 # UNA TRANSFORMACIÓN CONTINUA
 
-Dentro del entorno forestal:
-la transformación vegetal ocurre continuamente.
+Dentro del bosque la transformación vegetal nunca se detiene.
+
+No ocurre de forma instantánea ni uniforme. La materia vegetal evoluciona lentamente mientras interactúa con humedad, microorganismos, suelo, oxígeno y acumulación orgánica.
 
 <br>
 
-No aparece de forma instantánea ni uniforme.
+Con el tiempo:
+- parte de la estructura vegetal se reorganiza
+- determinados compuestos se degradan
+- otros aparecen progresivamente
+- y el comportamiento general de la hoja cambia
 
 <br>
 
-La humedad,
-el tiempo,
-la acumulación orgánica,
-la microbiología
-y el propio comportamiento del bosque
-modifican progresivamente la materia vegetal.
+Algunas fases desarrollan perfiles más reactivos e inmediatos.
+
+Otras evolucionan hacia comportamientos más estables, profundos y complejos.
 
 <br>
 
-Cada momento de transformación:
-presenta características distintas.
+Quercus Flumen observó durante años cómo esas diferencias modificaban:
+- coloración
+- estabilidad
+- comportamiento del agua
+- liberación orgánica
+- evolución microbiológica
+- y dinámica general del entorno acuático
+
+---
+
+# OBSERVAR, PRESERVAR Y RECOMPONER
+
+Wild no intenta copiar literalmente un ecosistema blackwater salvaje.
+
+Tampoco intenta simplificar artificialmente la naturaleza.
+
+<br>
+
+El producto nace de una idea mucho más concreta:
+observar determinados perfiles vegetales durante su transformación, preservarlos en momentos específicos y reorganizarlos posteriormente dentro de una herramienta más interpretable y relativamente estable.
+
+<br>
+
+Dentro del bosque la hoja continuaría evolucionando constantemente.
+
+Wild interviene precisamente en ese punto.
+
+<br>
+
+Parte importante del desarrollo consiste en decidir:
+- qué perfiles conservar
+- cuándo preservarlos
+- y cómo recombinarlos posteriormente
+
+<br>
+
+Y sinceramente, ahí es donde realmente aparece Wild.
 
 ---
 
 # FASES Y COMPORTAMIENTO
 
-Dentro de Wild,
-Quercus Flumen trabaja principalmente desde diferentes estados de transformación vegetal.
-
-<br>
-
-De forma simplificada,
-el sistema se organiza alrededor de:
+Dentro de Wild, Quercus Flumen trabaja principalmente desde:
 - Fase 1
 - Fase 2
 - y Fase 3
@@ -75,189 +100,229 @@ el sistema se organiza alrededor de:
 
 No como categorías rígidas o absolutas.
 
-Sino como:
-perfiles vegetales con comportamientos progresivamente distintos.
+Sino como distintos estados evolutivos de transformación vegetal.
+
+<br>
+
+Cada fase desarrolla:
+- comportamientos distintos
+- perfiles orgánicos diferentes
+- velocidades de liberación variables
+- y dinámicas propias dentro del agua
 
 ---
 
-## FASE 1
+# FASE 1  
+## Hoja menos transformada, más reactiva
 
-La Fase 1 conserva un comportamiento más reactivo y menos evolucionado.
+La Fase 1 corresponde a hojas todavía relativamente cercanas a su estado vegetal inicial.
 
-<br>
-
-Generalmente presenta:
-- coloración más oscura
-- liberación rápida
-- menor maduración orgánica
-- y comportamiento más directo dentro del agua
+Aunque ya han comenzado a transformarse, siguen conservando un comportamiento más directo y reactivo dentro del agua.
 
 <br>
 
-Su perfil suele resultar:
-más visual,
-más inmediato
-y menos cargado orgánicamente.
+Generalmente desarrollan:
+- coloraciones más intensas
+- liberación más rápida
+- y un comportamiento más inmediato durante la extracción
+
+<br>
+
+Químicamente, es razonable esperar una mayor presencia relativa de compuestos más solubles y fácilmente extraíbles.
+
+<br>
+
+Probable perfil dominante:
+- taninos más disponibles
+- polifenoles solubles
+- compuestos fenólicos simples
+- ácidos orgánicos ligeros
+- pigmentos oxidados iniciales
+- fracción DOM más rápida
+- menor desarrollo húmico y fúlvico maduro
+
+<br>
+
+Dentro de Wild, la Fase 1 suele aportar reacción inicial, intensidad visual y una parte importante de la respuesta inmediata del concentrado.
 
 ---
 
-## FASE 2
+# FASE 2  
+## Equilibrio y transición progresiva
 
-La Fase 2 representa un estado intermedio de transformación.
+La Fase 2 representa un estado intermedio de transformación vegetal.
 
-<br>
-
-Aquí:
-la materia vegetal comienza a desarrollar:
-- mayor estabilidad
-- comportamiento más progresivo
-- y una interacción orgánica más compleja
+La hoja ya no conserva el comportamiento más reactivo de las fases iniciales, pero tampoco ha alcanzado todavía los perfiles más profundos y maduros de evolución.
 
 <br>
 
-Muchas veces:
-actúa como puente entre perfiles más reactivos y perfiles más maduros.
+Empiezan a aparecer cambios más claros en:
+- oxidación
+- reorganización estructural
+- estabilidad orgánica
+- y comportamiento microbiológico
+
+<br>
+
+La liberación suele volverse más progresiva y equilibrada. Wild pierde parte de la agresividad inicial y comienza a desarrollar una interacción más estable dentro del agua.
+
+<br>
+
+Probable perfil dominante:
+- taninos parcialmente transformados
+- polifenoles más complejos
+- primeras fracciones húmicas relevantes
+- aumento progresivo de compuestos fúlvicos
+- DOM más equilibrada
+- mayor estabilidad orgánica
+- menor explosividad reactiva
+
+<br>
+
+Dentro de Wild, la Fase 2 funciona muchas veces como puente entre perfiles más rápidos y perfiles más maduros.
+
+Aporta equilibrio, continuidad y estabilidad progresiva al comportamiento general del producto.
 
 ---
 
-## FASE 3
+# FASE 3  
+## Transformación avanzada y profundidad orgánica
 
 La Fase 3 representa estados más avanzados de transformación vegetal.
 
-<br>
-
-Generalmente desarrolla:
-- coloraciones más suaves o claras
-- comportamiento más profundo
-- mayor carga orgánica
-- y evolución más progresiva dentro del agua
+Aquí la hoja ya ha atravesado procesos más prolongados de:
+- humedad
+- oxidación
+- compactación
+- y reorganización microbiológica
 
 <br>
 
-Aunque visualmente pueda parecer menos intensa:
-su comportamiento suele resultar más complejo y maduro.
+Visualmente puede parecer menos intensa.
+
+Pero funcionalmente suele desarrollar algunos de los perfiles más complejos de todo Wild.
+
+<br>
+
+La liberación se vuelve más lenta y profunda. El comportamiento del agua suele resultar más progresivo y estable, y aparecen perfiles orgánicos mucho más evolucionados.
+
+<br>
+
+Probable perfil dominante:
+- mayor presencia relativa de fracciones húmicas complejas
+- compuestos fúlvicos más maduros
+- DOM más estable y profunda
+- menor reactividad inmediata
+- perfiles orgánicos más evolucionados
+- coloración más suave pero más compleja
+- interacción microbiológica potencialmente más rica
+
+<br>
+
+Dentro de Wild, la Fase 3 suele aportar profundidad, estabilidad y complejidad orgánica a largo plazo.
 
 ---
 
-# PERFILES COMPLEMENTARIOS
+# WILD NO ES UNA ÚNICA FASE
 
-Wild no trabaja desde:
-una única transformación uniforme.
+Wild no trabaja desde una única transformación uniforme.
 
-<br>
-
-El sistema combina:
-fracciones vegetales con comportamientos complementarios.
+Trabaja desde la combinación diseñada de distintos perfiles evolutivos de una misma hoja.
 
 <br>
 
-Determinadas transformaciones pueden aportar:
-- estabilidad
-- complejidad orgánica
-- coloración
-- comportamiento progresivo
-- o evolución distinta dentro del agua
+La complejidad del producto no nace de mezclar múltiples materiales forestales distintos.
+
+Nace de observar cómo evoluciona una misma hoja a través del tiempo y cómo cambian sus comportamientos durante esa transformación.
 
 <br>
 
-La construcción de Wild busca precisamente:
-equilibrar y combinar parte de esos perfiles naturales.
+Wild reorganiza posteriormente esas fases buscando construir un perfil:
+- amplio
+- equilibrado
+- progresivo
+- complejo
+- y relativamente estable
 
 ---
 
-# PRESERVAR LA TRANSFORMACIÓN
+# PRESERVACIÓN Y ESTABILIZACIÓN
 
-Uno de los aspectos más importantes del desarrollo de Wild es:
-la preservación de determinados estados de transformación vegetal.
-
-<br>
-
-Dentro del bosque:
-la materia vegetal continúa evolucionando constantemente.
-
-<br>
-
-Quercus Flumen trabaja mediante:
+Una vez identificados determinados perfiles, Quercus Flumen trabaja mediante:
 - secado
 - deshidratación
-- y estabilización progresiva
-
-para:
-preservar determinados perfiles naturales antes de que continúen evolucionando.
+- estabilización
+- y control progresivo del material vegetal
 
 <br>
 
-El objetivo no es detener la naturaleza.
+El objetivo no es únicamente conservar la hoja.
 
-Sino:
-conservar parte de determinados comportamientos observados durante la transformación vegetal.
-
----
-
-# ESTABILIDAD Y BIOSEGURIDAD
-
-La estabilización también permite:
-trabajar desde un entorno más controlado para su utilización posterior dentro del acuario.
+El objetivo es preservar determinados estados evolutivos antes de que continúen transformándose dentro del bosque.
 
 <br>
 
-Wild continúa siendo:
-un Concentrado Botánico Forestal natural.
+El sistema de estabilización también permite trabajar desde un entorno más controlado para su utilización posterior dentro del acuario.
 
-<br>
-
-Pero el proceso busca:
+Wild continúa siendo un Concentrado Botánico Forestal natural, pero el proceso busca:
 - estabilidad
-- conservación adecuada
 - consistencia
-- y reducción de riesgos innecesarios durante el uso del sistema.
+- conservación adecuada
+- y reducción de riesgos innecesarios durante el uso posterior
 
 ---
 
-# TRANSFORMACIÓN Y COMPORTAMIENTO
+# EL ACUARIO COMO SISTEMA VIVO
 
-La transformación vegetal modifica profundamente:
-- comportamiento del concentrado
-- liberación orgánica
-- estabilidad
-- suspensión
-- coloración
-- y evolución posterior dentro del agua
+Wild no debe interpretarse como un producto completamente estático.
 
-<br>
-
-Por ese motivo:
-Quercus Flumen no interpreta la materia vegetal como:
-un material uniforme o estático.
+El comportamiento del concentrado puede evolucionar posteriormente según:
+- microbiología
+- agua utilizada
+- estabilidad biológica
+- conservación
+- fauna mantenida
+- y comportamiento general del acuario
 
 <br>
 
-La evolución progresiva forma parte esencial del comportamiento de Wild.
+La dinámica aparece principalmente cuando Wild entra en interacción con el biotopo vivo.
+
+<br>
+
+Wild no es inestable por naturaleza.
+
+La evolución aparece cuando el producto comienza a interactuar con un entorno acuático real.
 
 ---
 
 # UNA INTERPRETACIÓN OBSERVACIONAL
 
-Wild no intenta clasificar artificialmente la naturaleza mediante categorías rígidas.
+Wild no nace desde clasificaciones artificiales o categorías cerradas.
 
-<br>
-
-El sistema nace desde:
+El producto se desarrolla desde:
 - observación prolongada
 - experiencia acumulada
-- comparación
-- y evolución continua del proyecto
+- comparación constante
+- interpretación ecológica
+- y evolución continua dentro de Quercus Flumen
 
 <br>
 
-Cada transformación vegetal:
-puede comportarse de forma distinta según:
+Cada transformación vegetal puede desarrollar comportamientos distintos según:
 - humedad
 - tiempo
 - microbiología
+- oxidación
 - conservación
 - extracción
-- y comportamiento general del sistema.
+- y evolución posterior dentro del agua
+
+<br>
+
+Por ese motivo, Wild no interpreta la hoja como un elemento fijo.
+
+La interpreta como un material vivo en transformación continua.
 
 ---
 
@@ -268,4 +333,3 @@ puede comportarse de forma distinta según:
 → [Perfil y comportamiento](../perfil-y-comportamiento/)
 
 → [Desarrollo del sistema](../desarrollo-del-sistema/)
-```0
