@@ -42,7 +42,7 @@ Wild se desarrolla exclusivamente a partir de distintas fases de transformación
 
 La complejidad del sistema no procede de mezclar múltiples materiales forestales distintos.
 
-Procede de observar cómo una misma hoja evoluciona y desarrolla una transformación progresiva dentro del bosque.
+Procede de observar cómo una misma hoja evoluciona y madura dentro del bosque.
 
 <br>
 
