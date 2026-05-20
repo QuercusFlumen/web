@@ -192,6 +192,29 @@ Mucho antes de existir Wild, ya existía observación acumulada alrededor de:
 
 ---
 
+## ARTÍCULOS RELACIONADOS
+
+La observación del entorno donde nace Quercus Flumen continúa desarrollándose también dentro de la sección de artículos.
+
+<br>
+
+Algunos textos especialmente relacionados con el origen del proyecto son:
+
+<br>
+
+→ [Lo que ocurre bajo las hojas](../../articulos/observacion/lo-que-ocurre-bajo-las-hojas/)
+
+→ [Agua, bosque y continuidad ecológica](../../articulos/ecologia/agua-bosque-y-continuidad-ecologica/)
+
+→ [Qué ocurre realmente cuando una hoja envejece](../../articulos/hojas-y-botanicos/que-ocurre-realmente-cuando-una-hoja-envejece/)
+
+→ [El valor de la transformación lenta](../../articulos/ecologia/el-valor-de-la-transformacion-lenta/)
+
+→ [El bosque no funciona de forma instantánea](../../articulos/ecologia/el-bosque-no-funciona-de-forma-instantanea/)
+
+---
+---
+
 # CONTINUIDAD
 
 Quercus Flumen continúa evolucionando constantemente.
