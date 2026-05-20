@@ -11,158 +11,158 @@ description: Principios observacionales y metodológicos de Quercus Flumen
 
 Quercus Flumen nace desde una idea muy simple:
 
-<br>
-
 > observar antes de concluir.
+
+Gran parte del proyecto se desarrolla precisamente intentando comprender cómo interactúan:
+- agua
+- transformación vegetal
+- estabilidad
+- microbiología
+- tiempo
+- y comportamiento natural del entorno.
+- 
+No intentando reducir sistemas complejos a respuestas rápidas o fórmulas cerradas.
 
 ---
 
 # OBSERVACIÓN ANTES QUE RESPUESTAS RÁPIDAS
 
-El proyecto intenta evitar:
-- fórmulas cerradas
-- explicaciones excesivamente simples
+Quercus Flumen intenta evitar:
 - soluciones universales
-- y conclusiones rápidas sobre sistemas profundamente complejos
+- explicaciones excesivamente simples
+- afirmaciones absolutas
+- y conclusiones rápidas sobre sistemas profundamente complejos.
 
 <br>
 
-Agua,
-bosque,
-microbiología,
-transformación vegetal
-y tiempo
-interactúan continuamente entre sí.
+La naturaleza rara vez funciona de forma completamente lineal.
 
 <br>
 
-Quercus Flumen intenta comprender mejor esas relaciones:
-sin reducir artificialmente su complejidad.
+El comportamiento del agua no depende únicamente de:
+- color
+- pH
+- o una única variable aislada.
+
+<br>
+
+Del mismo modo, la transformación vegetal tampoco puede interpretarse únicamente como:
+- degradación
+- acumulación
+- o liberación orgánica simple.
+
+<br>
+
+Todo interactúa continuamente dentro del tiempo.
 
 ---
 
 # UNA MIRADA OBSERVACIONAL
 
-Quercus Flumen no trabaja desde:
-certezas absolutas.
+Quercus Flumen no trabaja desde certezas absolutas.
 
 <br>
 
-Trabaja desde:
-- experiencia acumulada
+El proyecto se desarrolla mediante:
 - observación prolongada
+- experiencia acumulada
 - comparación
 - investigación
 - prueba y error
-- y evolución constante del sistema
+- y evolución continua del conocimiento.
 
 <br>
 
-Muchas veces:
-la observación aparece antes que la explicación.
+Muchas veces, la observación aparece antes que la explicación completa.
 
-Y parte del trabajo del proyecto consiste precisamente en:
-interpretar cuidadosamente lo que el sistema muestra.
+<br>
+
+Parte importante del trabajo consiste precisamente en interpretar cuidadosamente:
+- cómo evoluciona el agua
+- cómo cambia la materia vegetal
+- y cómo determinados comportamientos aparecen progresivamente dentro del sistema.
 
 ---
 
 # EVITAR LA SIMPLIFICACIÓN EXCESIVA
 
-Uno de los riesgos más frecuentes dentro del blackwater es:
-simplificar demasiado.
+Uno de los riesgos más frecuentes dentro del blackwater es simplificar demasiado.
 
 <br>
 
-Reducir sistemas complejos únicamente a:
-- color
-- pH
-- hojas
-- o estética visual
-
-puede ocultar gran parte del comportamiento real del entorno.
+Reducir sistemas complejos únicamente a estética visual, agua oscura, hojas o acidificación rápida puede ocultar gran parte del comportamiento real del entorno.
 
 <br>
 
-Quercus Flumen intenta mantener siempre una visión más amplia:
-donde:
-- transformación
+Quercus Flumen intenta mantener siempre una visión más amplia donde:
 - estabilidad
 - acumulación orgánica
 - comportamiento microbiológico
-- evolución del agua
-- y tiempo
+- transformación vegetal
+- y evolución progresiva del agua
 
-forman parte del sistema completo.
+forman parte de un mismo conjunto.
 
 ---
 
 # PRUDENCIA Y HONESTIDAD
 
-Quercus Flumen intenta mantener siempre:
-- prudencia
-- honestidad
-- y coherencia observacional
-
-<br>
+Quercus Flumen intenta mantener siempre prudencia, honestidad y coherencia observacional.
 
 El proyecto evita:
 - exageraciones
-- afirmaciones absolutas
-- y promesas artificiales
-
-<br>
+- promesas artificiales
+- y afirmaciones que no puedan sostenerse razonablemente dentro de la experiencia observada.
 
 No todo puede medirse fácilmente.
 
 No todo está completamente comprendido.
 
-Y no todos los sistemas evolucionan de la misma manera.
+Y no todos los sistemas evolucionan exactamente igual.
+
+Precisamente por ese motivo, la observación continuada sigue formando parte esencial del proyecto.
 
 ---
 
 # INVESTIGACIÓN CONTINUA
 
-Quercus Flumen no entiende la investigación como:
-un proceso terminado.
+Quercus Flumen no entiende la investigación como un proceso completamente terminado.
 
-<br>
+Cada observación corrige, reorganiza, amplía o modifica la comprensión previa del entorno y del agua.
 
-Cada observación:
-- corrige
-- reorganiza
-- amplía
-- o modifica
-la comprensión previa del sistema.
+Con frecuencia, pequeñas diferencias en:
+- humedad
+- estabilidad
+- acumulación orgánica
+- microbiología
+- o transformación vegetal
 
-<br>
+pueden modificar progresivamente el comportamiento general del sistema.
 
-Por ese motivo:
-el proyecto continúa evolucionando constantemente.
+Por ese motivo, el proyecto continúa evolucionando constantemente.
 
 ---
 
 # EL BOSQUE COMO REFERENCIA
 
-El entorno forestal donde nace Quercus Flumen actúa continuamente como referencia observacional.
+El entorno forestal donde nace Quercus Flumen continúa funcionando como referencia observacional.
+No para copiar literalmente la naturaleza.
+Sino para comprender mejor:
+- estabilidad ecológica
+- transformación vegetal
+- evolución lenta de la materia orgánica
+- comportamiento natural del agua
+- y continuidad de los sistemas dentro del tiempo.
 
 <br>
 
-No para:
-copiar la naturaleza de forma literal.
-
-Sino para:
-comprender mejor:
-- transformación
-- estabilidad
-- comportamiento orgánico
-- y evolución ecológica a largo plazo
+Gran parte de la filosofía del proyecto nace precisamente de esa forma de observar el entorno.
 
 ---
 
 # UNA FILOSOFÍA ABIERTA
 
-Quercus Flumen no busca imponer:
-una única manera de interpretar el blackwater.
+Quercus Flumen no busca imponer una única manera de interpretar el blackwater.
 
 <br>
 
@@ -171,12 +171,19 @@ El proyecto intenta:
 - compartir
 - documentar
 - investigar
-- y seguir aprendiendo continuamente
+- y continuar aprendiendo constantemente.
 
 <br>
 
-Porque parte de la filosofía de Quercus Flumen consiste precisamente en aceptar que:
-los sistemas naturales complejos nunca terminan de comprenderse completamente.
+Parte importante de la filosofía de Quercus Flumen consiste precisamente en aceptar que los sistemas naturales complejos nunca terminan de comprenderse completamente.
+
+<br>
+
+Y precisamente ahí continúa estando una de las partes más importantes del proyecto:
+
+<br>
+
+seguir observando cómo agua, transformación vegetal y tiempo interactúan entre sí.
 
 ---
 
