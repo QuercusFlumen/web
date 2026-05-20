@@ -341,6 +341,28 @@ Y sinceramente, probablemente esa parte nunca termine del todo.
 
 ---
 
+## ARTÍCULOS RELACIONADOS
+
+Parte importante del desarrollo de Wild también se conecta con distintos artículos relacionados con:
+- transformación vegetal
+- estabilidad ecológica
+- complejidad orgánica
+- y reinterpretación natural del sistema blackwater.
+
+<br>
+
+→ [Blackwater no significa solo agua oscura](../../articulos/blackwater/blackwater-no-significa-solo-agua-oscura.md)
+
+→ [La diferencia entre impacto y estabilidad](../../articulos/blackwater/la-diferencia-entre-impacto-y-estabilidad.md)
+
+→ [Qué ocurre realmente cuando una hoja envejece](../../articulos/hojas-y-botanicos/que-ocurre-realmente-cuando-una-hoja-envejece.md)
+
+→ [El problema de interpretar todas las hojas igual](../../articulos/hojas-y-botanicos/el-problema-de-interpretar-todas-las-hojas-igual.md)
+
+→ [Agua, bosque y continuidad ecológica](../../articulos/ecologia/agua-bosque-y-continuidad-ecologica.md)
+
+---
+
 # RECORRER WILD
 
 → [Qué es Wild](../que-es-wild/)
