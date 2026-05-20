@@ -3,154 +3,177 @@ layout: default
 title: Blackwater
 parent: Quercus Flumen
 nav_order: 3
-description: Interpretación ecológica y observacional del sistema blackwater
+description: Interpretación ecológica y observacional del entorno blackwater
 ---
 
 # BLACKWATER  
-## Mucho más que color
+## Mucho más que agua oscura
 
-El blackwater suele asociarse rápidamente con:
-- agua oscura
+El término blackwater suele asociarse rápidamente con:
+- coloración oscura
 - taninos
 - hojas
-- o estética natural
+- o estética natural.
 
 <br>
 
-Pero en realidad:
-el comportamiento de un sistema blackwater es mucho más complejo.
+Sin embargo, el comportamiento real de estos entornos es mucho más complejo.
 
 <br>
 
 Quercus Flumen interpreta el blackwater como:
-la evolución progresiva de un entorno profundamente influenciado por:
-- materia orgánica
+la evolución progresiva de sistemas profundamente influenciados por:
 - transformación vegetal
+- materia orgánica disuelta
 - microbiología
 - estabilidad ecológica
 - mineralización
-- y tiempo
+- agua
+- y tiempo.
 
 ---
 
-# EL COLOR ES SOLO UNA PARTE
+# EL COLOR ES SOLO UNA CONSECUENCIA
 
-La coloración del agua puede ser una consecuencia visible del sistema.
-
-<br>
-
-Pero no representa por sí sola:
-la complejidad completa del entorno.
+La coloración del agua puede ser una de las partes más visibles del sistema.
 
 <br>
 
-Dos aguas con apariencia similar:
-pueden comportarse de manera completamente distinta según:
+Pero no representa por sí sola toda la complejidad del entorno.
+
+<br>
+
+Dos aguas aparentemente similares pueden desarrollar comportamientos completamente distintos según:
+- origen vegetal
 - carga orgánica
 - estabilidad biológica
 - microbiología
 - mineralización
-- origen vegetal
-- o evolución temporal del sistema
+- o evolución progresiva del sistema.
+
+<br>
+
+Precisamente por ese motivo, Quercus Flumen no interpreta el blackwater únicamente desde una perspectiva visual.
+
+---
+
+# AGUA Y TRANSFORMACIÓN VEGETAL
+
+Dentro de muchos entornos blackwater naturales, el agua interactúa continuamente con materia vegetal en transformación.
+
+<br>
+
+Las hojas no permanecen estáticas.
+
+La materia orgánica evoluciona constantemente.
+
+Y el agua modifica progresivamente su comportamiento a medida que interactúa con:
+- acumulación vegetal
+- transformación orgánica
+- microbiología
+- sedimentación
+- y evolución natural del entorno.
+
+<br>
+
+Con el tiempo, Quercus Flumen comenzó a observar que gran parte del comportamiento de estos sistemas parecía surgir precisamente de esa interacción continua.
+
+---
+
+# COMPLEJIDAD ORGÁNICA
+
+El blackwater no depende únicamente de:
+- taninos rápidos
+- acidificación
+- o acumulación visual de hojas.
+
+<br>
+
+Dentro del agua aparecen progresivamente perfiles mucho más complejos relacionados con:
+- materia orgánica disuelta
+- compuestos fenólicos
+- perfiles húmicos y fúlvicos
+- microbiología
+- estabilidad biológica
+- y evolución orgánica natural del entorno.
+
+<br>
+
+Parte importante de la profundidad de estos sistemas parece desarrollarse lentamente dentro del tiempo.
 
 ---
 
 # UN SISTEMA EN EVOLUCIÓN
 
-Quercus Flumen entiende el blackwater como:
-un sistema dinámico.
+Quercus Flumen entiende el blackwater como un entorno dinámico y progresivo.
 
 <br>
 
-El agua no permanece estática.
+El agua no permanece completamente estable ni inmóvil.
 
 <br>
 
 Evoluciona continuamente mediante:
-- interacción con materia vegetal
+- interacción orgánica
 - actividad microbiológica
-- transformación orgánica
+- transformación vegetal
 - sedimentación
 - consumo biológico
-- y cambios progresivos del entorno
+- y cambios progresivos del entorno acuático.
 
 <br>
 
-Por ese motivo:
-el comportamiento real del sistema no puede reducirse únicamente a parámetros aislados.
+Muchas veces, parte de los cambios más importantes no aparecen de forma inmediata.
+
+Sino de manera lenta y acumulativa.
 
 ---
 
-# TRANSFORMACIÓN VEGETAL
+# ESTABILIDAD Y TIEMPO
 
-Uno de los elementos más importantes dentro del blackwater es:
-la transformación progresiva de la materia vegetal.
-
-<br>
-
-Las hojas y fracciones orgánicas:
-no actúan siempre igual.
+Gran parte de los sistemas blackwater más estables desarrollan comportamientos progresivos dentro del tiempo.
 
 <br>
 
-Su comportamiento cambia continuamente según:
-- humedad
-- degradación
-- microbiología
-- tiempo
-- agua utilizada
-- y evolución del sistema
+Con el paso de las semanas o los meses:
+- cambia el agua
+- evoluciona la materia orgánica
+- se reorganiza parte de la microbiología
+- y el sistema desarrolla dinámicas propias.
 
 <br>
 
-Parte importante de Quercus Flumen consiste precisamente en:
-observar cómo esas transformaciones modifican el comportamiento del agua.
-
----
-
-# ESTABILIDAD Y COMPLEJIDAD
-
-Los sistemas blackwater suelen desarrollar:
-dinámicas lentas y progresivas.
+Precisamente ahí aparece una de las partes más importantes de la interpretación de Quercus Flumen.
 
 <br>
 
-Con el tiempo:
-- aparecen equilibrios biológicos
-- cambia el comportamiento del agua
-- evoluciona la carga orgánica
-- y el entorno desarrolla estabilidad propia
+El blackwater no se entiende únicamente como una preparación puntual.
 
-<br>
-
-Muchas veces:
-los cambios importantes dentro del sistema no son inmediatos.
-
-Sino acumulativos y progresivos.
+Se entiende como la evolución progresiva de un entorno vivo.
 
 ---
 
 # UNA INTERPRETACIÓN OBSERVACIONAL
 
-Quercus Flumen no intenta definir:
-una única forma correcta de entender el blackwater.
+Quercus Flumen no intenta imponer una única manera de interpretar el blackwater.
 
 <br>
 
 El proyecto intenta:
 - observar
 - comparar
-- interpretar
-- y comprender mejor
-cómo evolucionan estos sistemas complejos.
+- documentar
+- e interpretar cuidadosamente
+cómo evolucionan estos sistemas complejos dentro del tiempo.
 
 <br>
 
-Por ese motivo:
-el blackwater dentro de Quercus Flumen no se entiende únicamente como una estética.
+Por ese motivo, el blackwater dentro de Quercus Flumen no se interpreta únicamente como una estética acuática.
 
-Se entiende como:
-un comportamiento ecológico progresivo.
+<br>
+
+Se interpreta como:
+un comportamiento ecológico progresivo profundamente influenciado por agua, transformación vegetal y estabilidad orgánica.
 
 ---
 
@@ -160,14 +183,19 @@ Wild nace precisamente desde esa interpretación observacional.
 
 <br>
 
-No como:
-una herramienta pensada únicamente para teñir el agua.
+No como una herramienta pensada únicamente para oscurecer el agua.
 
-Sino como:
-un Concentrado Botánico Forestal desarrollado para trabajar desde:
+<br>
+
+Sino como un Concentrado Botánico Forestal desarrollado para trabajar desde:
 - complejidad orgánica
 - transformación vegetal
-- y evolución progresiva del sistema acuático
+- perfiles progresivos
+- y evolución natural del entorno acuático.
+
+<br>
+
+Parte importante del comportamiento de Wild aparece precisamente cuando el concentrado comienza a interactuar progresivamente con el sistema biológico y el agua.
 
 ---
 
