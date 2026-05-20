@@ -9,6 +9,7 @@ description: Guía práctica de preparación y uso de Wild
 # STARTER PACK  
 ## La forma más simple de empezar a utilizar Wild
 
+"Starter Pack 20g" es nuestro primer formato comercial.
 Si has llegado hasta aquí,
 probablemente Wild ya está contigo.
 
