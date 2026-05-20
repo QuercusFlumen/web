@@ -36,6 +36,37 @@ Su objetivo es trabajar desde:
 
 ---
 
+# DE QUÉ ESTÁ HECHO WILD
+
+Wild trabaja exclusivamente sobre hoja de Quercus pyrenaica.
+
+<br>
+
+Más concretamente:
+Wild se desarrolla a partir de una combinación diseñada de distintas fases de transformación y maduración vegetal de hoja de roble.
+
+<br>
+
+No trabaja sobre:
+- tierra forestal
+- humus
+- sedimentos del bosque
+- madera
+- raíces
+- ni mezclas genéricas de materia orgánica forestal.
+
+<br>
+
+La complejidad de Wild no procede de añadir múltiples materiales distintos.
+
+Procede de observar cómo cambia una misma hoja a través del tiempo, la humedad, la microbiología y la transformación progresiva dentro del entorno forestal.
+
+<br>
+
+Wild interpreta precisamente esa evolución vegetal.
+
+---
+
 # MÁS QUE UNA MEZCLA VEGETAL
 
 Wild no debe entenderse simplemente como:
