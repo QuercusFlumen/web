@@ -72,7 +72,7 @@ sino permitir que el sistema evolucione junto al acuario.
 # LA EXTRACCIÓN STANDARD
 
 Aunque Wild puede trabajarse de múltiples maneras,
-Quercus Flumen desarrolló con el tiempo una extracción base que considera:
+Tras un largo proceso de  desarrollo y experimentación esta es la extracción base que consideramos más:
 - equilibrada
 - versátil
 - estable
@@ -94,24 +94,28 @@ El resultado suele generar aproximadamente:
 
 ---
 
-# FORMATO 20G
+# FORMATO "Starter Pack 20G"
 
-Wild se desarrolla actualmente sobre un formato inicial de:
+Wild se desarrolla actualmente sobre un formato comercial inicial de:
 20 g de Concentrado Botánico Forestal.
 
 <br>
 
-La extracción standard recomendada trabaja precisamente desde ese formato.
+La extracción standard recomendada trabaja precisamente desde ese formato (Tambien fracciones proporcionales)
 
 <br>
+
+---
+
+# 20g = 50 hojas
 
 Como referencia aproximada,
 20 g de Wild equivalen al comportamiento vegetal de unas 50 hojas de roble recién caídas.
 
 <br>
 
-Wild trabaja desde:
-- transformación vegetal
+Esta es una cantidad aproximada ya que Wild trabaja desde:
+- maduración vegetal 
 - selección de perfiles
 - molienda
 - y concentración progresiva del sistema botánico.
