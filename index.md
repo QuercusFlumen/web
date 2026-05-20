@@ -2,172 +2,233 @@
 layout: home
 title: Inicio
 nav_order: 1
-description: Observación y transformación forestal aplicada al agua
+description: Observación ecológica y transformación vegetal aplicada al agua
 ---
 
-# BIENVENIDOS A NUESTRA WEB
-<br>
-Quercus Flumen nace observando:
+# QUERCUS FLUMEN  
+## Observación ecológica y transformación vegetal aplicada al agua
+
+Quercus Flumen es un proyecto desarrollado alrededor de:
 - bosque
 - agua
 - transformación vegetal
-- acumulación orgánica
-- microbiología
-- humedad
-- tiempo
-- y comportamiento ecológico
-
-<br>
-
-No nació inicialmente como un producto.
-
-Ni como una marca.
-
-<br>
-
-Nació desde la experiencia prolongada dentro de un entorno forestal real:
-un robledal maduro situado en la Sierra de Francia, dentro del entorno de El Casarito y la Peña de Francia.
-
----
-
-# UN PROYECTO NACIDO DEL BOSQUE
-
-Durante años, Quercus Flumen observó cómo evolucionaba la materia vegetal dentro del ecosistema:
-
-- hojas transformándose lentamente
-- acumulación orgánica
-- humedad persistente
-- degradación progresiva
-- aguas blandas y ligeramente ácidas
-- interacción entre suelo, bosque y agua
-
-<br>
-
-El acuario llegó después.
-
-<br>
-
-Wild nació como consecuencia práctica de toda esa observación acumulada.
-
----
-
-# MÁS ALLÁ DEL COLOR
-
-Quercus Flumen no interpreta el blackwater únicamente como agua oscura o estética visual.
-
-<br>
-
-El proyecto explora:
-- complejidad orgánica
-- transformación vegetal
-- dinámica ecológica
 - estabilidad
-- microbiología
-- comportamiento del agua
-- y evolución progresiva de los sistemas acuáticos
+- y evolución natural de sistemas acuáticos.
 
 <br>
 
-Wild surge precisamente desde esa búsqueda.
+El proyecto nace en el corazón de la Sierra de Francia, entre robles y castaños centenarios, en El Casarito, bajo la presencia constante de la Peña de Francia.
+
+No surge inicialmente desde una marca ni desde una idea comercial.
+Surge observando cómo evolucionan:
+- las hojas
+- la humedad
+- el suelo
+- el agua
+- y la materia vegetal
+
+dentro de un entorno forestal real vivido diariamente.
+
+---
+
+# UN PROYECTO NACIDO DEL ENTORNO
+
+Durante mucho tiempo, Quercus Flumen observó cómo la transformación vegetal modificaba lentamente el comportamiento del bosque y del agua.
+
+Las hojas evolucionaban sobre el suelo forestal.
+
+La humedad reorganizaba continuamente la materia orgánica.
+
+Y el entorno cambiaba constantemente con:
+- la lluvia
+- la niebla
+- la estacionalidad
+- el tiempo
+- y la continuidad ecológica del bosque.
+
+<br>
+
+Mucho antes de existir Wild, ya existía observación acumulada.
+
+El acuario apareció después como una forma de reinterpretar parte de esos comportamientos dentro del entorno acuático.
+
+---
+
+# MÁS ALLÁ DEL BLACKWATER VISUAL
+
+Quercus Flumen no interpreta el blackwater únicamente como agua oscura o coloración estética.
+
+<br>
+
+El proyecto intenta comprender cómo interactúan dentro del agua:
+- transformación vegetal
+- materia orgánica disuelta
+- estabilidad biológica
+- microbiología
+- perfiles húmicos y fúlvicos
+- mineralización
+- y evolución progresiva del sistema.
+
+Parte importante de la complejidad de estos entornos aparece lentamente dentro del tiempo.
+
+---
+
+# WILD
+
+Wild es nuestro producto, un Concentrado Botánico Forestal de perfil complejo.
+
+<br>
+
+Se desarrolla exclusivamente a partir de distintas fases de transformación y maduración vegetal de hoja de *Quercus pyrenaica*.
+
+<br>
+
+Wild no nace intentando reproducir artificialmente un bosque. Nace intentando reinterpretar parte de los comportamientos observados durante años dentro del entorno natural:
+- transformación vegetal
+- evolución orgánica
+- estabilidad
+- complejidad progresiva
+- y comportamiento natural del agua.
+
+El resultado es un producto concentrado diseñado para trabajar desde:
+- complejidad orgánica
+- perfiles progresivos
+- transformación vegetal
+- y evolución natural del entorno acuático.
 
 ---
 
 # UNA WEB PROFUNDA Y EN EVOLUCIÓN
 
-Esta web contiene:
+Quercus Flumen se desarrolla actualmente como:
+- proyecto observacional
+- entorno documental
+- espacio divulgativo
+- y desarrollo experimental continuo.
+
+<br>
+
+La web reúne:
 - artículos
 - documentación técnica
 - bibliografía
 - observaciones
-- y desarrollo experimental acumulado durante años
+- pruebas
+- y evolución acumulada del proyecto.
 
 <br>
 
-Por ese motivo, Quercus Flumen puede sentirse en algunos momentos como un sistema complejo.
+Por ese motivo, algunas secciones pueden resultar especialmente profundas o técnicas.
 
 <br>
 
-Y probablemente lo sea.
+Precisamente ahí aparece uno de los objetivos más importantes de esta web:
 
 <br>
 
-Pero el objetivo de esta estructura es muy claro:
-
-<br>
-
-> hacer más humana, clara y accesible una experiencia profundamente compleja.
+> hacer más accesible y clara una experiencia profundamente compleja.
 
 ---
 
 # RECORRER QUERCUS FLUMEN
 
-La web se organiza en varias áreas principales:
+La web se organiza en varias áreas principales.
 
 ---
 
 ## QUERCUS FLUMEN
-El origen del proyecto.
+
+El origen territorial, ecológico y observacional del proyecto.
 
 <br>
 
-Aquí se desarrolla:
-- el territorio
-- la filosofía
-- el terroir
-- la observación ecológica
-- y la interpretación del blackwater desde un entorno forestal real
+Aquí encontrarás:
+- Sierra de Francia
+- El Casarito
+- filosofía observacional
+- interpretación del blackwater
+- terroir
+- y relación entre territorio, agua y transformación vegetal.
 
 → [Entrar en Quercus Flumen](quercus-flumen/)
 
 ---
 
 ## WILD
-Nuestro producto.Un concentrado botánico forestal para obtener liquidos concentrados de perfil complejo.
+
+Nuestro producto. El desarrollo completo del Concentrado Botánico Forestal creado por Quercus Flumen.
 
 <br>
 
 Aquí se explica:
 - qué es Wild
-- cómo se desarrolló
+- de qué está hecho
 - transformación y fases
-- comportamiento
-- perfil complejo
-- y evolución del sistema
+- perfiles orgánicos
+- comportamiento del agua
+- beneficios potenciales
+- y evolución del producto.
 
 → [Entrar en Wild](wild/)
 
 ---
 
 ## STARTER PACK
-La experiencia de entrada. Nuestro primer formato comercial "Starter Pack 20g"
+
+La experiencia de entrada a Wild.
 
 <br>
 
-En esta sección encontrarás una guía práctica de uso para:
-- preparar el extracto
-- conservarlo
-- utilizarlo
-- y comprender cómo empezar
+Esta sección desarrolla:
+- preparación
+- extracción
+- conservación
+- dosificación
+- y uso progresivo de Wild dentro del acuario.
 
 → [Entrar en Starter Pack](starter-pack/)
 
 ---
 
 ## ARTÍCULOS
-La capa divulgativa y observacional del proyecto.
+
+La parte divulgativa y observacional del proyecto.
+
+<br>
+
+Aquí se desarrollan temas relacionados con:
+- blackwater
+- ecosistemas acuáticos
+- transformación vegetal
+- microbiología
+- fauna
+- agua
+- y comportamiento natural de distintos entornos.
 
 → [Entrar en Artículos](articulos/)
 
 ---
 
 ## DOCUMENTACIÓN
-La capa técnica y experimental.
+
+La capa técnica y experimental de Quercus Flumen.
+
+<br>
+
+Incluye:
+- análisis
+- desarrollo técnico
+- comportamiento del sistema
+- pruebas
+- documentación experimental
+- y estructura científica del proyecto.
 
 → [Entrar en Documentación](docs/)
 
 ---
 
 ## BIBLIOGRAFÍA
+
 Base científica y referencias utilizadas dentro del proyecto.
 
 → [Entrar en Bibliografía](docs/bibliografia/)
@@ -177,20 +238,16 @@ Base científica y referencias utilizadas dentro del proyecto.
 # FILOSOFÍA DEL PROYECTO
 
 Quercus Flumen intenta mantener siempre:
-- rigor
-- honestidad
 - observación
 - prudencia
-- y coherencia ecológica
+- honestidad
+- rigor
+- y coherencia ecológica.
 
 <br>
 
 El objetivo no es simplificar artificialmente la naturaleza.
-
-<br>
-
-Es intentar comprender mejor:
-cómo agua, bosque, transformación y tiempo interactúan entre sí.
+Es intentar comprender mejor cómo agua, transformación vegetal y tiempo interactúan entre sí dentro de sistemas vivos y complejos.
 
 ---
 
@@ -200,18 +257,20 @@ Quercus Flumen continúa evolucionando constantemente.
 
 <br>
 
-El proyecto:
-- investiga
-- observa
-- corrige
-- reorganiza
-- y aprende continuamente
+Cada observación,
+cada extracción
+y cada sistema
+continúan aportando información nueva sobre:
+- comportamiento del agua
+- transformación vegetal
+- estabilidad
+- complejidad orgánica
+- y evolución natural del entorno acuático.
 
 <br>
 
 Esta web no representa una conclusión cerrada.
 
-Representa un sistema vivo en evolución constante.
+<br>
 
----
-
+Representa un proyecto en evolución continua construido desde convivencia real con un ecosistema concreto.
