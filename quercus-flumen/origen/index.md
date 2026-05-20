@@ -1,197 +1,257 @@
 ---
 layout: default
-title: Origen
-parent: Quercus Flumen
-nav_order: 1
-description: El contexto ecológico y territorial desde el que nace Quercus Flumen
+title: Quercus Flumen
+nav_order: 2
+has_children: true
+description: Origen, filosofía y observación ecológica del proyecto
 ---
 
-# ORIGEN  
-## El contexto ecológico desde el que nace Quercus Flumen
+# QUERCUS FLUMEN  
+## Observación ecológica y transformación vegetal aplicada al agua
 
-Quercus Flumen nace desde la convivencia prolongada con un entorno forestal real.
-
-<br>
-
-El proyecto se desarrolla dentro del Parque Natural de Las Batuecas - Sierra de Francia,
-en el entorno de:
-- la Sierra de Francia
-- la Peña de Francia
-- El Casarito
-- y un robledal maduro mantenido durante décadas
+Quercus Flumen nace dentro del entorno de la Sierra de Francia.
 
 <br>
 
-Aquí:
-bosque,
-agua,
-humedad,
-suelo
-y transformación vegetal
-conviven continuamente dentro de un ecosistema estable y profundamente estacional.
-
----
-
-# UN ENTORNO NATURAL
-
-El entorno donde nace Quercus Flumen permanece profundamente ligado a los ritmos naturales del bosque.
+Más concretamente entre robles y castaños centenarios situados alrededor de El Casarito y bajo la presencia constante de la Peña de Francia.
 
 <br>
 
-Alejado del ruido y de la actividad urbana,
-la mayor parte de los sonidos del entorno proceden directamente de la naturaleza:
-- el viento moviendo los árboles
-- la caída de una hoja o una rama
-- la lluvia sobre el bosque
-- el agua corriendo
-- la humedad
-- la nieve durante el invierno
-- y los cambios constantes de cada estación
+No surge inicialmente desde:
+- un producto
+- una marca
+- ni una idea comercial.
 
 <br>
 
-La observación prolongada de ese entorno fue moldeando progresivamente la filosofía del proyecto.
-
----
-
-# UN ENTORNO OBSERVADO DURANTE AÑOS
-
-Antes incluso de existir Wild:
-ya existía observación acumulada.
-
-<br>
-
-Durante años, Quercus Flumen trabajó observando:
-- acumulación de hoja
-- transformación lenta
-- degradación progresiva
-- compactación orgánica
-- humedad persistente
-- y evolución natural del suelo forestal
-
-<br>
-
-No como:
-un proceso puntual.
-
-Sino como:
-una dinámica repetida continuamente dentro del bosque.
-
----
-
-# EL ROBLEDAL COMO SISTEMA VIVO
-
-Quercus Flumen no interpreta el robledal únicamente como paisaje.
-
-<br>
-
-Lo interpreta como:
-un sistema ecológico activo del que aprender.
-
-<br>
-
-La observación prolongada del entorno permitió comprender:
-cómo:
-- tiempo
+Surge viviendo diariamente dentro de un entorno donde:
+- bosque
 - humedad
 - agua
+- hoja
+- niebla
 - transformación vegetal
-- y acumulación orgánica
+- y estacionalidad
 
-modifican constantemente el comportamiento del ecosistema.
-
----
-
-# CONTINUIDAD ECOLÓGICA
-
-Uno de los aspectos más importantes del entorno es:
-su continuidad.
-
-<br>
-
-El robledal donde nace Quercus Flumen:
-- lleva décadas de mantenimiento y conservación
-- contiene árboles centenarios
-- presenta fuerte acumulación orgánica
-- y mantiene dinámicas forestales lentas y estables
-
-<br>
-
-Esto genera:
-- humedad persistente
-- transformación vegetal progresiva
-- estabilidad ecológica
-- y evolución continua del suelo forestal
+forman parte natural de la vida cotidiana.
 
 ---
 
-# AGUA Y ENTORNO
+# EL CASARITO
 
-El agua también forma parte esencial del sistema.
-
-<br>
-
-El entorno presenta:
-- aguas blandas
-- ligera acidez natural
-- fuerte interacción con materia vegetal
-- y comportamiento profundamente influenciado por el bosque y la estacionalidad
+El Casarito no representa únicamente la ubicación del proyecto.
 
 <br>
 
-Quercus Flumen comenzó observando precisamente esa interacción constante entre:
+Es el entorno donde Quercus Flumen comenzó a desarrollarse lentamente.
+
+<br>
+
+Aquí las hojas forman parte del suelo durante todo el año.
+
+La humedad permanece atrapada bajo el bosque.
+
+Las estaciones modifican constantemente el paisaje.
+
+Y la transformación vegetal ocurre de forma continua alrededor nuestra.
+
+La hoja no aparece como un concepto abstracto.
+
+Se pisa.
+Se recoge.
+Se observa.
+Se transforma lentamente dentro del entorno.
+
+Gran parte de la observación que posteriormente daría lugar a Wild comenzó precisamente ahí.
+
+---
+
+# LA SIERRA Y LA PEÑA DE FRANCIA
+
+La Sierra y la Peña de Francia forman parte constante del paisaje y del comportamiento del entorno.
+
+<br>
+
+La humedad,
+la niebla,
+la lluvia,
+la nieve,
+la orientación del bosque,
+la estacionalidad
+y la evolución del suelo forestal
+modifican continuamente el ecosistema.
+
+<br>
+
+Quercus Flumen se desarrolla dentro de un entorno protegido y profundamente condicionado por esa continuidad ecológica.
+
+<br>
+
+Un territorio integrado dentro del:
+- Parque Natural Las Batuecas-Sierra de Francia
+- y la Reserva de la Biosfera de la Sierra de Francia.
+
+<br>
+
+Con el tiempo comenzó a resultar evidente que todo ese contexto influía profundamente sobre:
+- comportamiento vegetal
+- acumulación orgánica
+- estabilidad del bosque
+- y evolución natural del agua.
+
+---
+
+# UN BOSQUE VIVIDO
+
+Quercus Flumen no observa el bosque desde fuera.
+
+<br>
+
+El proyecto nace viviendo dentro de él.
+
+<br>
+
+Durante mucho tiempo, la observación se desarrolló simplemente viendo cómo evolucionaban:
+- las hojas
+- el suelo
+- y la materia vegetal dentro del tiempo.
+
+<br>
+
+Las hojas no permanecían estáticas.
+
+El suelo tampoco.
+
+Ni el agua,
+ni la humedad,
+ni el propio comportamiento del bosque.
+
+<br>
+
+Todo evolucionaba lentamente de forma continua.
+
+---
+
+# OBSERVAR ANTES DE SIMPLIFICAR
+
+Uno de los principios más importantes de Quercus Flumen es:
+observar antes de sacar conclusiones rápidas.
+
+<br>
+
+El proyecto intenta evitar:
+- fórmulas artificialmente simples
+- respuestas absolutas
+- y explicaciones exageradamente cerradas.
+
+<br>
+
+La naturaleza rara vez funciona de forma completamente lineal.
+
+<br>
+
+Precisamente por ese motivo, Quercus Flumen intenta trabajar desde:
+- prudencia
+- observación continuada
+- comparación
+- y evolución progresiva del conocimiento.
+
+---
+
+# EL AGUA Y LA TRANSFORMACIÓN VEGETAL
+
+Con el tiempo comenzó a resultar evidente que la transformación vegetal modificaba profundamente el comportamiento del entorno.
+
+<br>
+
+Las hojas evolucionaban lentamente sobre el suelo forestal.
+
+La humedad reorganizaba constantemente la materia vegetal.
+
+El agua interactuaba continuamente con acumulación orgánica, microbiología y transformación progresiva del bosque.
+
+<br>
+
+Precisamente ahí comenzó a desarrollarse gran parte de la base observacional de Quercus Flumen.
+
+<br>
+
+Mucho antes de existir Wild, ya existía observación acumulada alrededor de:
+- transformación vegetal
+- estabilidad
+- agua blanda
+- acumulación orgánica
+- y evolución natural del entorno.
+
+---
+
+# EL ACUARIO COMO INTERPRETACIÓN
+
+El acuario apareció después como una forma de reinterpretar parte de esos comportamientos observados en la naturaleza.
+
+<br>
+
+No intentando reproducir artificialmente el bosque.
+
+<br>
+
+Sino intentando comprender cómo determinados perfiles orgánicos y dinámicas naturales podían trasladarse progresivamente al entorno acuático.
+
+<br>
+
+Wild nace posteriormente como consecuencia práctica de toda esa observación acumulada.
+
+---
+
+# TERRITORIO Y TERROIR
+
+Quercus Flumen entiende el terroir como la interacción continua entre:
+- territorio
 - agua
-- suelo
+- clima
+- bosque
 - humedad
+- tiempo
 - y transformación vegetal.
 
----
+<br>
 
-# ANTES DEL ACUARIO
-
-Muy importante:
-
-Quercus Flumen no nació inicialmente dentro del acuario.
+No como una idea estética.
 
 <br>
 
-El acuario apareció posteriormente como:
-un espacio donde reinterpretar parte de las dinámicas observadas durante años dentro del entorno forestal.
+Sino como un contexto ecológico real capaz de influir profundamente sobre:
+- evolución de la hoja
+- estabilidad orgánica
+- comportamiento del agua
+- y dinámica general del entorno.
 
 <br>
 
-Wild surge precisamente desde esa transición:
-del bosque,
-a la interpretación acuática de algunos de esos procesos ecológicos.
+Parte importante de la identidad de Wild nace precisamente de ese contexto.
 
 ---
 
-# EXPERIENCIA Y EVOLUCIÓN
+# CONTINUIDAD
 
-El proyecto continúa evolucionando constantemente.
-
-<br>
-
-Cada estación:
-- modifica el entorno
-- altera humedad y comportamiento del bosque
-- transforma la materia vegetal
-- y amplía la comprensión del sistema
+Quercus Flumen continúa evolucionando constantemente.
 
 <br>
 
-Por ese motivo:
-Quercus Flumen no entiende el origen como algo cerrado.
+Cada observación,
+cada extracción
+y cada sistema
+continúan aportando información nueva sobre:
+- transformación vegetal
+- comportamiento del agua
+- estabilidad
+- complejidad orgánica
+- y evolución progresiva del entorno acuático.
 
-Lo entiende como:
-una experiencia observacional continua ligada al territorio.
+<br>
 
----
+Porque Quercus Flumen no nace desde respuestas definitivas.
 
-# RECORRER QUERCUS FLUMEN
+<br>
 
-→ [Filosofía](../filosofia/)
-
-→ [Blackwater](../blackwater/)
-
-→ [Terroir](../terroir/)
+Nace viviendo y observando continuamente un ecosistema real.
