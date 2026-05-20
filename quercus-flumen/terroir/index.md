@@ -3,119 +3,142 @@ layout: default
 title: Terroir
 parent: Quercus Flumen
 nav_order: 4
-description: La relación entre territorio, agua, bosque y transformación
+description: La relación entre territorio, agua, bosque y transformación vegetal
 ---
 
 # TERROIR  
-## Territorio, agua, tiempo y transformación
+## Territorio, agua, bosque y transformación vegetal
 
-Quercus Flumen entiende el terroir como:
-la interacción continua entre:
+Quercus Flumen entiende el terroir como la interacción continua entre:
 - territorio
 - agua
 - clima
-- bosque
 - humedad
+- bosque
 - tiempo
-- y transformación vegetal
+- y transformación vegetal.
 
 <br>
 
-No como:
-una idea estética.
+No como una idea estética o decorativa.
 
-Sino como:
-un contexto ecológico real que influye constantemente sobre el comportamiento del sistema.
+<br>
+
+Sino como un contexto ecológico real capaz de influir profundamente sobre:
+- evolución de la hoja
+- comportamiento del agua
+- estabilidad orgánica
+- humedad del entorno
+- y transformación progresiva de la materia vegetal.
 
 ---
 
-# UN ENTORNO PROFUNDAMENTE FORESTAL
+# SIERRA DE FRANCIA
 
-El proyecto se desarrolla dentro del Parque Natural de Las Batuecas - Sierra de Francia,
-en un entorno caracterizado por:
-- robledales maduros
-- fuerte acumulación vegetal
+El terroir de Quercus Flumen nace dentro de la Sierra de Francia.
+
+<br>
+
+Un entorno profundamente condicionado por:
+- robledales y castañares maduros
 - humedad persistente
-- aguas blandas y ligeramente ácidas
-- entorno granítico
-- y marcada estacionalidad
+- fuerte estacionalidad
+- nieblas frecuentes
+- agua blanda
+- y evolución lenta del suelo forestal.
 
 <br>
 
-Aquí:
-la transformación vegetal forma parte continua del paisaje y del comportamiento ecológico del entorno.
+La presencia constante de la Peña de Francia también forma parte del comportamiento del entorno.
+
+<br>
+
+La orientación,
+la humedad,
+las lluvias,
+las diferencias térmicas
+y la evolución del bosque
+modifican continuamente el ecosistema.
 
 ---
 
-# EL TIEMPO COMO HERRAMIENTA ECOLÓGICA
+# ROBLE, HOJA Y CONTINUIDAD
 
-Uno de los aspectos más importantes del terroir dentro de Quercus Flumen es:
-la continuidad temporal.
+Gran parte del entorno donde nace Quercus Flumen está formado por robledales de *Quercus pyrenaica*.
+
+<br>
+
+Aquí, las hojas evolucionan lentamente sobre el suelo forestal.
 
 <br>
 
 La materia vegetal:
-- no desaparece rápidamente
-- no evoluciona de forma lineal
-- ni mantiene siempre el mismo comportamiento
-
-<br>
-
-Con el tiempo:
+- se acumula
 - se transforma
-- se compacta
 - interactúa con humedad y microbiología
-- modifica el suelo
-- y desarrolla nuevas dinámicas orgánicas
+- y reorganiza continuamente el comportamiento del entorno.
 
 <br>
 
-Parte importante del proyecto consiste precisamente en:
-observar cómo esa transformación lenta modifica el comportamiento del sistema.
-
----
-
-# AGUA Y BOSQUE
-
-Dentro de este entorno:
-agua y bosque permanecen profundamente conectados.
+La transformación no ocurre de forma rápida ni uniforme.
 
 <br>
-
-La interacción continua entre:
-- humedad
-- materia vegetal
-- suelo
-- lluvia
-- escorrentía
-- y acumulación orgánica
-
-modifica constantemente el comportamiento ecológico del entorno.
-
-<br>
-
-Por ese motivo:
-Quercus Flumen entiende el agua no como un elemento aislado,
-sino como parte activa de un sistema forestal mucho más amplio.
-
----
-
-# ESTACIONALIDAD Y CONTINUIDAD
 
 Cada estación modifica:
 - humedad
 - temperatura
 - degradación vegetal
-- comportamiento del suelo
-- y dinámica ecológica del entorno
+- compactación orgánica
+- y evolución del suelo.
 
 <br>
 
-El bosque evoluciona continuamente.
+Parte importante del terroir de Quercus Flumen nace precisamente observando esa continuidad lenta dentro del bosque.
+
+---
+
+# HUMEDAD Y AGUA
+
+Dentro de este entorno, agua y bosque permanecen profundamente conectados.
 
 <br>
 
-Y esa evolución progresiva forma parte esencial del terroir de Quercus Flumen.
+La humedad atrapada bajo el robledal,
+las pequeñas escorrentías,
+la acumulación orgánica
+y la evolución del suelo forestal
+modifican continuamente el comportamiento del agua.
+
+<br>
+
+Con el tiempo comenzó a resultar evidente que el agua no podía interpretarse completamente separada del entorno vegetal que la rodea.
+
+<br>
+
+Precisamente ahí comenzó a desarrollarse una de las bases observacionales más importantes de Quercus Flumen.
+
+---
+
+# EL TIEMPO COMO PARTE DEL ENTORNO
+
+Uno de los aspectos más importantes del terroir dentro de Quercus Flumen es la continuidad temporal.
+
+<br>
+
+La materia vegetal no mantiene siempre el mismo comportamiento.
+
+<br>
+
+Con el tiempo:
+- evoluciona
+- se reorganiza
+- interactúa con microbiología y humedad
+- modifica el suelo
+- y desarrolla nuevas dinámicas orgánicas dentro del bosque.
+
+<br>
+
+Parte importante del proyecto consiste precisamente en observar cómo esa transformación lenta modifica progresivamente el comportamiento del entorno.
 
 ---
 
@@ -124,41 +147,47 @@ Y esa evolución progresiva forma parte esencial del terroir de Quercus Flumen.
 Quercus Flumen no interpreta el terroir desde:
 - misticismo
 - romanticismo artificial
-- ni idealización del bosque
+- ni idealización del bosque.
 
 <br>
 
-El proyecto intenta observar:
-cómo el entorno modifica realmente:
+El proyecto intenta observar cómo el entorno modifica realmente:
 - transformación vegetal
 - estabilidad
+- comportamiento del agua
 - acumulación orgánica
-- y comportamiento ecológico del sistema
+- y evolución ecológica del sistema.
 
 <br>
 
 La fuerza del terroir no nace desde la narrativa.
 
-Nace desde:
-la continuidad ecológica real del entorno.
+<br>
+
+Nace desde la continuidad ecológica real del entorno.
 
 ---
 
-# DEL BOSQUE AL SISTEMA ACUÁTICO
+# DEL BOSQUE AL AGUA
 
-Parte importante de Wild surge precisamente desde:
-la reinterpretación acuática de algunas dinámicas observadas durante años dentro del entorno forestal.
+Parte importante de Wild surge precisamente desde la reinterpretación acuática de comportamientos observados durante años dentro del entorno forestal.
 
 <br>
 
-No para:
-copiar literalmente la naturaleza.
+No intentando copiar literalmente la naturaleza.
 
-Sino para:
-comprender mejor:
-- comportamiento orgánico
+<br>
+
+Sino intentando comprender mejor:
 - transformación progresiva
-- y evolución ecológica dentro del agua.
+- perfiles orgánicos
+- estabilidad
+- y evolución natural del agua dentro del tiempo.
+
+<br>
+
+Precisamente ahí continúa estando una de las bases más importantes de Quercus Flumen:
+comprender cómo territorio, agua y transformación vegetal interactúan continuamente entre sí.
 
 ---
 
