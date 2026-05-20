@@ -1,37 +1,31 @@
 ---
 layout: default
-title: Quercus Flumen
-nav_order: 2
-has_children: true
-description: Origen, filosofía y observación ecológica del proyecto
+title: Origen
+parent: Quercus Flumen
+nav_order: 1
+description: El entorno ecológico y territorial desde el que nace Quercus Flumen
 ---
 
-# QUERCUS FLUMEN  
-## Observación ecológica y transformación vegetal aplicada al agua
+# ORIGEN  
+## Sierra de Francia, bosque y transformación vegetal
 
-Quercus Flumen nace dentro del entorno de la Sierra de Francia.
+Quercus Flumen nace en el corazon de la Sierra de Francia.
 
-<br>
-
-Más concretamente entre robles y castaños centenarios situados alrededor de El Casarito y bajo la presencia constante de la Peña de Francia.
+Más concretamente entre robles y castaños centenarios situados en El Casarito y bajo la presencia constante de la Peña de Francia.
 
 <br>
 
-No surge inicialmente desde:
-- un producto
-- una marca
-- ni una idea comercial.
-
-<br>
+El proyecto no surge desde un laboratorio aislado ni desde una idea construida artificialmente.
 
 Surge viviendo diariamente dentro de un entorno donde:
-- bosque
 - humedad
 - agua
 - hoja
+- bosque
 - niebla
-- transformación vegetal
-- y estacionalidad
+- lluvia
+- suelo
+- y transformación vegetal
 
 forman parte natural de la vida cotidiana.
 
@@ -41,26 +35,26 @@ forman parte natural de la vida cotidiana.
 
 El Casarito no representa únicamente la ubicación del proyecto.
 
-<br>
-
 Es el entorno donde Quercus Flumen comenzó a desarrollarse lentamente.
-
-<br>
 
 Aquí las hojas forman parte del suelo durante todo el año.
 
 La humedad permanece atrapada bajo el bosque.
 
-Las estaciones modifican constantemente el paisaje.
+Las estaciones modifican continuamente el paisaje.
 
-Y la transformación vegetal ocurre de forma continua alrededor nuestra.
+Y la transformación vegetal ocurre de forma constante alrededor nuestra.
+
+<br>
 
 La hoja no aparece como un concepto abstracto.
 
 Se pisa.
 Se recoge.
 Se observa.
-Se transforma lentamente dentro del entorno.
+Y evoluciona lentamente dentro del entorno.
+
+<br>
 
 Gran parte de la observación que posteriormente daría lugar a Wild comenzó precisamente ahí.
 
@@ -70,30 +64,27 @@ Gran parte de la observación que posteriormente daría lugar a Wild comenzó pr
 
 La Sierra y la Peña de Francia forman parte constante del paisaje y del comportamiento del entorno.
 
-<br>
-
-La humedad,
-la niebla,
+La niebla,
 la lluvia,
 la nieve,
 la orientación del bosque,
-la estacionalidad
-y la evolución del suelo forestal
+la humedad persistente
+y la estacionalidad
 modifican continuamente el ecosistema.
 
 <br>
 
-Quercus Flumen se desarrolla dentro de un entorno protegido y profundamente condicionado por esa continuidad ecológica.
+Quercus Flumen se desarrolla dentro de un territorio profundamente condicionado por esa continuidad ecológica.
 
 <br>
 
-Un territorio integrado dentro del:
+Un entorno integrado dentro del:
 - Parque Natural Las Batuecas-Sierra de Francia
 - y la Reserva de la Biosfera de la Sierra de Francia.
 
 <br>
 
-Con el tiempo comenzó a resultar evidente que todo ese contexto influía profundamente sobre:
+Todo este contexto influía profundamente sobre:
 - comportamiento vegetal
 - acumulación orgánica
 - estabilidad del bosque
@@ -101,33 +92,56 @@ Con el tiempo comenzó a resultar evidente que todo ese contexto influía profun
 
 ---
 
+# ROBLES Y CASTAÑOS
+
+Gran parte del entorno donde nace Quercus Flumen está formado por:
+- robles *Quercus pyrenaica*
+- y castaños centenarios mantenidos durante generaciones.
+
+<br>
+
+La transformación vegetal ocurre aquí de forma lenta y continua.
+
+<br>
+
+Las hojas evolucionan progresivamente sobre el suelo forestal.
+
+La humedad reorganiza constantemente la materia vegetal.
+
+Y el bosque modifica lentamente su propio equilibrio con el paso del tiempo.
+
+<br>
+
+Parte importante de la identidad de Quercus Flumen nace precisamente observando esa continuidad natural.
+
+---
+
+# HUMEDAD, AGUA Y SUELO
+
+La Sierra de Francia desarrolla un comportamiento ambiental muy marcado.
+
+El agua forma parte constante de esa dinámica.
+
+Pequeños cursos de agua, zonas húmedas, escorrentías forestales y acumulación orgánica interactúan continuamente con el bosque y la transformación vegetal.
+
+Con el tiempo comenzó a resultar evidente que el comportamiento del agua no podía separarse completamente del comportamiento del entorno.
+
+---
+
 # UN BOSQUE VIVIDO
 
 Quercus Flumen no observa el bosque desde fuera.
 
-<br>
-
 El proyecto nace viviendo dentro de él.
 
-<br>
-
-Durante mucho tiempo, la observación se desarrolló simplemente viendo cómo evolucionaban:
+Durante años la observación se desarrolló simplemente viendo cómo evolucionaban:
 - las hojas
 - el suelo
+- la humedad
 - y la materia vegetal dentro del tiempo.
 
-<br>
-
 Las hojas no permanecían estáticas.
-
-El suelo tampoco.
-
-Ni el agua,
-ni la humedad,
-ni el propio comportamiento del bosque.
-
-<br>
-
+El suelo tampoco, ni el agua, ni el propio comportamiento del bosque.
 Todo evolucionaba lentamente de forma continua.
 
 ---
@@ -139,96 +153,42 @@ observar antes de sacar conclusiones rápidas.
 
 <br>
 
-El proyecto intenta evitar:
-- fórmulas artificialmente simples
-- respuestas absolutas
-- y explicaciones exageradamente cerradas.
-
-<br>
-
 La naturaleza rara vez funciona de forma completamente lineal.
 
 <br>
 
-Precisamente por ese motivo, Quercus Flumen intenta trabajar desde:
+Precisamente por ese motivo, el proyecto intenta trabajar desde:
 - prudencia
 - observación continuada
 - comparación
 - y evolución progresiva del conocimiento.
 
+<br>
+
+Gran parte de la identidad de Quercus Flumen nace precisamente de esa forma de observar el entorno.
+
 ---
 
-# EL AGUA Y LA TRANSFORMACIÓN VEGETAL
+# TERRITORIO Y CONTINUIDAD
 
-Con el tiempo comenzó a resultar evidente que la transformación vegetal modificaba profundamente el comportamiento del entorno.
-
-<br>
-
-Las hojas evolucionaban lentamente sobre el suelo forestal.
-
-La humedad reorganizaba constantemente la materia vegetal.
-
-El agua interactuaba continuamente con acumulación orgánica, microbiología y transformación progresiva del bosque.
+Con el tiempo, Quercus Flumen comenzó a comprender que territorio, agua, humedad, transformación vegetal y estabilidad ecológica no podían interpretarse como elementos separados.
 
 <br>
 
-Precisamente ahí comenzó a desarrollarse gran parte de la base observacional de Quercus Flumen.
+Todo formaba parte de una misma continuidad natural.
+
+<br>
+
+Precisamente ahí comenzó a desarrollarse la base observacional del proyecto.
 
 <br>
 
 Mucho antes de existir Wild, ya existía observación acumulada alrededor de:
 - transformación vegetal
 - estabilidad
-- agua blanda
 - acumulación orgánica
+- agua blanda
 - y evolución natural del entorno.
-
----
-
-# EL ACUARIO COMO INTERPRETACIÓN
-
-El acuario apareció después como una forma de reinterpretar parte de esos comportamientos observados en la naturaleza.
-
-<br>
-
-No intentando reproducir artificialmente el bosque.
-
-<br>
-
-Sino intentando comprender cómo determinados perfiles orgánicos y dinámicas naturales podían trasladarse progresivamente al entorno acuático.
-
-<br>
-
-Wild nace posteriormente como consecuencia práctica de toda esa observación acumulada.
-
----
-
-# TERRITORIO Y TERROIR
-
-Quercus Flumen entiende el terroir como la interacción continua entre:
-- territorio
-- agua
-- clima
-- bosque
-- humedad
-- tiempo
-- y transformación vegetal.
-
-<br>
-
-No como una idea estética.
-
-<br>
-
-Sino como un contexto ecológico real capaz de influir profundamente sobre:
-- evolución de la hoja
-- estabilidad orgánica
-- comportamiento del agua
-- y dinámica general del entorno.
-
-<br>
-
-Parte importante de la identidad de Wild nace precisamente de ese contexto.
 
 ---
 
@@ -238,15 +198,15 @@ Quercus Flumen continúa evolucionando constantemente.
 
 <br>
 
-Cada observación,
-cada extracción
-y cada sistema
+Cada estación,
+cada cambio del bosque
+y cada transformación observada dentro del entorno
 continúan aportando información nueva sobre:
-- transformación vegetal
-- comportamiento del agua
+- comportamiento vegetal
 - estabilidad
-- complejidad orgánica
-- y evolución progresiva del entorno acuático.
+- agua
+- humedad
+- y evolución natural del ecosistema.
 
 <br>
 
@@ -254,4 +214,4 @@ Porque Quercus Flumen no nace desde respuestas definitivas.
 
 <br>
 
-Nace viviendo y observando continuamente un ecosistema real.
+Nace viviendo y observando continuamente un entorno real.
