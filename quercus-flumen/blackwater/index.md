@@ -199,6 +199,28 @@ Parte importante del comportamiento de Wild aparece precisamente cuando el conce
 
 ---
 
+## ARTÍCULOS RELACIONADOS
+
+La interpretación del blackwater dentro de Quercus Flumen también se desarrolla de forma más profunda dentro de distintos artículos relacionados con:
+- materia orgánica disuelta
+- estabilidad ecológica
+- microbiología
+- y evolución natural del agua.
+
+<br>
+
+→ [Blackwater no significa solo agua oscura](../../articulos/blackwater/blackwater-no-significa-solo-agua-oscura.md)
+
+→ [Agua negra no significa agua muerta](../../articulos/blackwater/agua-negra-no-significa-agua-muerta.md)
+
+→ [Qué es realmente la materia orgánica disuelta](../../articulos/dom/que-es-realmente-la-materia-organica-disuelta.md)
+
+→ [DOM y estabilidad biológica](../../articulos/dom/dom-y-estabilidad-biologica.md)
+
+→ [La diferencia entre impacto y estabilidad](../../articulos/blackwater/la-diferencia-entre-impacto-y-estabilidad.md)
+
+---
+
 # RECORRER QUERCUS FLUMEN
 
 → [Origen](../origen/)
