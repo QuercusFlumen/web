@@ -7,186 +7,238 @@ description: Origen, filosofía y observación ecológica del proyecto
 ---
 
 # QUERCUS FLUMEN  
-## El origen ecológico y observacional del proyecto
+## Observación ecológica y transformación vegetal aplicada al agua
 
 Quercus Flumen nace desde la observación prolongada de un entorno forestal real.
 
 <br>
 
-No surge inicialmente desde:
-- el producto
-- el acuario
-- ni una idea comercial
+El proyecto no surge inicialmente desde:
+- un producto
+- una marca
+- ni una idea comercial.
 
 <br>
 
-Surge desde:
+Surge observando cómo evolucionan:
 - bosque
 - agua
+- humedad
 - transformación vegetal
 - acumulación orgánica
-- humedad
-- tiempo
-- y continuidad ecológica
+- microbiología
+- y tiempo
+
+dentro de un ecosistema estable y continuo.
 
 <br>
 
-Durante años, Quercus Flumen observó cómo evolucionaba la materia vegetal dentro del ecosistema:
-- hojas transformándose lentamente
-- acumulación sobre el suelo forestal
-- degradación progresiva
-- interacción entre agua, humedad y microbiología
-- y cambios constantes dentro del entorno natural
+Mucho antes de existir Wild, ya existía observación acumulada.
 
 ---
 
 # UN ENTORNO REAL
 
-El proyecto se desarrolla dentro del entorno de:
+Quercus Flumen se desarrolla dentro del entorno de:
 - la Sierra de Francia
 - la Peña de Francia
 - El Casarito
-- y un robledal y castañar maduro mantenido durante décadas
+- y un robledal y castañar maduro mantenido durante décadas.
 
 <br>
 
-Un entorno caracterizado por:
+Un entorno marcado por:
 - humedad persistente
+- fuerte estacionalidad
 - transformación lenta
-- acumulación vegetal
+- acumulación vegetal continua
 - aguas blandas y ligeramente ácidas
-- continuidad ecológica
-- y fuerte estacionalidad
+- y evolución progresiva del suelo forestal.
 
 <br>
 
-Quercus Flumen no interpreta este entorno como decoración o narrativa.
+Con el tiempo, el proyecto comenzó a observar cómo todos esos factores interactuaban constantemente entre sí.
 
-Lo interpreta como:
-un sistema ecológico vivo del que aprender.
+<br>
+
+Las hojas no permanecían estáticas.
+
+El agua tampoco.
+
+Ni el suelo,
+ni la humedad,
+ni la microbiología del entorno.
+
+<br>
+
+Todo evolucionaba lentamente de forma continua.
 
 ---
 
-# OBSERVACIÓN ANTES QUE CONCLUSIÓN
+# OBSERVAR ANTES DE SIMPLIFICAR
 
-Uno de los principios fundamentales del proyecto es:
-observar antes de simplificar.
-
-<br>
-
-Quercus Flumen intenta evitar:
-- respuestas rápidas
-- fórmulas cerradas
-- explicaciones artificialmente simples
-- y romanticismo vacío
+Uno de los principios más importantes de Quercus Flumen es:
+observar antes de sacar conclusiones rápidas.
 
 <br>
 
-El objetivo no es idealizar la naturaleza.
+El proyecto intenta evitar:
+- fórmulas artificialmente simples
+- respuestas absolutas
+- romanticismo vacío
+- y explicaciones exageradamente cerradas.
 
-Es intentar comprender mejor:
-cómo interactúan:
-- agua
-- bosque
-- transformación
-- microbiología
-- tiempo
-- y estabilidad ecológica
+<br>
+
+La naturaleza rara vez funciona de forma completamente lineal.
+
+<br>
+
+Precisamente por ese motivo, Quercus Flumen intenta trabajar desde:
+- prudencia
+- comparación
+- observación continuada
+- y evolución progresiva del conocimiento.
 
 ---
 
-# EL BLACKWATER COMO SISTEMA
+# EL BOSQUE COMO APRENDIZAJE
 
-Quercus Flumen no interpreta el blackwater únicamente como coloración del agua.
+Quercus Flumen no interpreta el bosque como decoración o narrativa estética.
 
 <br>
 
-El proyecto entiende el blackwater como:
-un sistema complejo donde intervienen:
-- materia orgánica
-- dinámica microbiana
+Lo interpreta como un entorno ecológico real del que aprender.
+
+<br>
+
+Durante mucho tiempo, el proyecto observó:
+- hojas transformándose lentamente
+- acumulación orgánica sobre el suelo
+- degradación progresiva
+- interacción constante entre agua y materia vegetal
+- compactación natural
+- humedad persistente
+- y cambios continuos dentro del ecosistema.
+
+<br>
+
+Con el tiempo comenzó a resultar evidente que la transformación vegetal modificaba profundamente el comportamiento del entorno.
+
+<br>
+
+Y precisamente ahí empezó a aparecer una de las bases más importantes del proyecto.
+
+---
+
+# EL BLACKWATER COMO COMPORTAMIENTO
+
+Quercus Flumen no interpreta el blackwater únicamente como agua oscura.
+
+<br>
+
+El proyecto entiende estos entornos como sistemas complejos donde intervienen simultáneamente:
 - transformación vegetal
+- materia orgánica disuelta
+- microbiología
+- estabilidad progresiva
 - mineralización
-- comportamiento del agua
-- y evolución ecológica progresiva
+- comportamiento químico del agua
+- y evolución ecológica dentro del tiempo.
 
 <br>
 
-Wild nace precisamente desde esa interpretación observacional.
+Parte importante del proyecto consiste precisamente en intentar comprender mejor cómo interactúan todos esos factores.
+
+<br>
+
+Wild nace posteriormente como consecuencia práctica de esa observación acumulada.
 
 ---
 
-# EXPERIENCIA ACUMULADA
+# EL ACUARIO COMO INTERPRETACIÓN
 
-Antes incluso de existir Wild:
-ya existía observación acumulada.
-
-<br>
-
-Durante años, el proyecto trabajó observando:
-- transformación de hojas durante largos periodos
-- degradación natural
-- compactación orgánica
-- humedad forestal
-- evolución del suelo
-- y comportamiento ecológico del entorno
+El acuario apareció después como un espacio donde reinterpretar parte de esas dinámicas naturales.
 
 <br>
 
-El acuario apareció posteriormente como:
-un espacio donde reinterpretar parte de esas dinámicas naturales.
+No intentando reproducir artificialmente un bosque.
+
+<br>
+
+Sino intentando comprender:
+cómo determinados comportamientos observados en entornos naturales podían trasladarse progresivamente al agua y al entorno acuático.
+
+<br>
+
+Con el tiempo, el proyecto comenzó a trabajar profundamente sobre:
+- transformación vegetal
+- estabilidad
+- perfiles orgánicos
+- comportamiento progresivo del agua
+- y evolución natural de sistemas blackwater.
 
 ---
 
 # TERRITORIO Y TERROIR
 
-Quercus Flumen entiende el terroir como:
-la interacción entre:
+Quercus Flumen entiende el terroir como la interacción continua entre:
 - territorio
 - agua
 - clima
+- humedad
 - bosque
 - tiempo
-- y transformación
+- y transformación vegetal.
 
 <br>
 
-No como una idea estética.
+No como un concepto decorativo.
 
-Sino como:
-un contexto ecológico real que influye profundamente sobre:
-- comportamiento vegetal
-- transformación orgánica
-- humedad
-- estabilidad
-- y evolución del sistema
+<br>
+
+Sino como un contexto ecológico real capaz de influir profundamente sobre:
+- evolución de la hoja
+- estabilidad orgánica
+- comportamiento del agua
+- y dinámica general del entorno.
+
+<br>
+
+Parte importante de la identidad de Wild nace precisamente de ese contexto.
 
 ---
 
-# UNA FILOSOFÍA DE RIGOR Y HONESTIDAD
+# RIGOR Y PRUDENCIA
 
 Quercus Flumen intenta mantener siempre:
-- prudencia
 - observación
-- rigor
+- prudencia
 - honestidad
-- y coherencia ecológica
+- rigor
+- y coherencia ecológica.
 
 <br>
 
 El proyecto continúa:
-- investigando
 - observando
+- comparando
 - corrigiendo
 - reorganizando
-- y evolucionando constantemente
+- y refinando continuamente su comprensión del sistema.
 
 <br>
 
 No representa una conclusión cerrada.
 
-Representa:
-un sistema vivo en evolución continua.
+<br>
+
+Representa un proyecto en evolución constante alrededor de:
+- agua
+- transformación vegetal
+- estabilidad
+- microbiología
+- y comportamiento natural del entorno acuático.
 
 ---
 
@@ -197,6 +249,7 @@ Dentro de esta sección encontrarás:
 ---
 
 ## ORIGEN
+
 El contexto territorial y ecológico desde el que nace el proyecto.
 
 → [Entrar en Origen](origen/)
@@ -204,6 +257,7 @@ El contexto territorial y ecológico desde el que nace el proyecto.
 ---
 
 ## FILOSOFÍA
+
 Los principios observacionales y metodológicos de Quercus Flumen.
 
 → [Entrar en Filosofía](filosofia/)
@@ -211,14 +265,16 @@ Los principios observacionales y metodológicos de Quercus Flumen.
 ---
 
 ## BLACKWATER
-La interpretación ecológica y observacional del sistema blackwater.
+
+La interpretación ecológica y progresiva del entorno blackwater.
 
 → [Entrar en Blackwater](blackwater/)
 
 ---
 
 ## TERROIR
-La relación entre territorio, agua, bosque y transformación.
+
+La relación entre territorio, transformación vegetal y comportamiento del agua.
 
 → [Entrar en Terroir](terroir/)
 
@@ -230,16 +286,20 @@ Quercus Flumen continúa evolucionando constantemente.
 
 <br>
 
-Cada observación:
-- modifica
-- corrige
-- reorganiza
-- o amplía
-la comprensión del sistema.
+Cada observación,
+cada extracción
+y cada sistema
+continúan aportando información nueva sobre:
+- comportamiento del agua
+- evolución vegetal
+- estabilidad
+- microbiología
+- y complejidad orgánica.
 
 <br>
 
-Porque Quercus Flumen no nace desde respuestas definitivas.
+Precisamente ahí sigue estando una de las bases más importantes del proyecto:
 
-Nace desde:
-la observación continua de un ecosistema real.
+<br>
+
+seguir observando cómo agua, bosque y tiempo interactúan entre sí.
