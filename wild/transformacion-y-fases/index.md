@@ -326,6 +326,32 @@ La interpreta como un material vivo en transformación continua.
 
 ---
 
+## OBSERVACIÓN Y PROCESO NATURAL
+
+Quercus Flumen comenzó a observar que materias vegetales aparentemente similares no siempre desarrollaban el mismo comportamiento dentro del agua.
+
+<br>
+
+Parte importante de esas diferencias parecía no depender únicamente del estado final de transformación vegetal, sino también del recorrido ecológico seguido previamente por la materia orgánica.
+
+<br>
+
+La observación prolongada del bosque comenzó a sugerir que:
+- tiempo
+- secuencia
+- transición natural
+- humedad
+- y evolución progresiva
+
+podían modificar profundamente el comportamiento final del sistema.
+
+<br>
+
+Precisamente ahí comenzó a reforzarse una de las bases más importantes de Wild:
+trabajar respetando procesos naturales de transformación progresiva en lugar de intentar acelerarlos artificialmente.
+
+---
+
 ## ARTÍCULOS RELACIONADOS
 
 La transformación vegetal observada dentro de Wild también se desarrolla de forma más profunda dentro de distintos artículos relacionados con:
@@ -335,6 +361,14 @@ La transformación vegetal observada dentro de Wild también se desarrolla de fo
 - y transformación progresiva del entorno forestal.
 
 <br>
+
+→ [El proceso importa más que el resultado visible](../../articulos/ecologia-estructural/el-proceso-importa-mas-que-el-resultado-visible.md)
+
+→ [La memoria ecológica de la materia vegetal](../../articulos/ecologia-estructural/la-memoria-ecologica-de-la-materia-vegetal.md)
+
+→ [No toda la materia transformada evoluciona igual](../../articulos/ecologia-estructural/no-toda-la-materia-transformada-evoluciona-igual.md)
+
+→ [Tiempo, secuencia y transformación natural](../../articulos/ecologia-estructural/tiempo-secuencia-y-transformacion-natural.md)
 
 → [Qué ocurre realmente cuando una hoja envejece](../../articulos/hojas-y-botanicos/que-ocurre-realmente-cuando-una-hoja-envejece.md)
 
