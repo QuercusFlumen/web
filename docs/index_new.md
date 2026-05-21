@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Documentación
+nav_exclude: true
 nav_order: 6
 description: Historia documental, investigación y evolución del conocimiento dentro de Quercus Flumen
 ---
