@@ -123,7 +123,7 @@ Puedes compartir tu experiencia utilizando el formulario de observación disponi
 
 <br>
 
-→ [Formulario de feedback](formulario-feedback/)
+→ [Formulario de feedback](formulario-feedback.md)
 
 ---
 
