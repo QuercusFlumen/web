@@ -364,4 +364,4 @@ El comportamiento progresivo de Wild dentro del agua también se desarrolla de f
 
 → [Transformación y fases](../transformacion-y-fases/)
 
-→ [Desarrollo del sistema](../desarrollo-del-sistema/)
+→ [Desarrollo del sistema](../desarrollo-de-wild/)
