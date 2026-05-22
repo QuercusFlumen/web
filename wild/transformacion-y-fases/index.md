@@ -388,4 +388,4 @@ La transformación vegetal observada dentro de Wild también se desarrolla de fo
 
 → [Perfil y comportamiento](../perfil-y-comportamiento/)
 
-→ [Desarrollo del sistema](../desarrollo-del-sistema/)
+→ [Desarrollo del sistema](../desarrollo-de-wild/)
