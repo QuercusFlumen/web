@@ -5,11 +5,8 @@ description: Programa experimental de observación y feedback de Wild
 ---
 
 # TEST PACK  
-## Observación compartida alrededor de Wild
+## Gracias por formar parte de WILD
 
-Gracias por formar parte de TEST PACK.
-
-<br>
 
 Lo que tienes entre las manos no es simplemente una muestra.
 
