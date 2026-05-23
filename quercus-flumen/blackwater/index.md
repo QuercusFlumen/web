@@ -59,7 +59,7 @@ Precisamente por ese motivo, Quercus Flumen no interpreta el blackwater únicame
 
 # AGUA Y TRANSFORMACIÓN VEGETAL
 
-Dentro de muchos entornos blackwater naturales, el agua interactúa continuamente con materia vegetal en transformación.
+Dentro de los entornos blackwater naturales, el agua interactúa continuamente con materia vegetal en transformación.
 
 <br>
 
