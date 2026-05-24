@@ -3,13 +3,15 @@ layout: default
 title: Wild
 nav_order: 3
 has_children: true
-description: Concentrado Botánico Forestal desarrollado por Quercus Flumen
+description: nuestro producto Concentrado Botánico Forestal desarrollado por Quercus Flumen
 ---
 
 # WILD  
-## Concentrado Botánico Forestal desarrollado por Quercus Flumen
+## Wild es nuestro producto, un concentrado Botánico Forestal de perfil complejo en formato seco y molido para acuarios naturalistas y sistemas blackwater
 
-Wild nace desde observación, transformación vegetal y evolución progresiva dentro de Quercus Flumen.
+Wild es un concentrado botánico forestal desarrollado por Quercus Flumen a partir de hoja de Quercus pyrenaica transformada progresivamente (Sistema de Fases) en entorno forestal real.
+
+Está diseñado para acuarios naturalistas, sistemas blackwater y entornos acuáticos de perfil orgánico complejo.
 
 <br>
 
