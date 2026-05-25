@@ -215,6 +215,19 @@ El objetivo es construir un entorno blackwater:
 
 ---
 
+# USO DEL PRODUCTO
+
+Wild ha sido desarrollado exclusivamente para uso en acuariofilia.
+
+<br>
+
+Aunque durante la extracción desarrolla perfiles aromáticos vegetales complejos,
+Wild no se comercializa ni se distribuye como:
+- producto alimentario
+- infusión
+- complemento
+- ni producto destinado a consumo humano.
+
 # RECORRER STARTER PACK
 
 Dentro de esta sección encontrarás:
