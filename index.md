@@ -8,10 +8,6 @@ description: Observación ecológica y transformación vegetal aplicada al agua
 ![Logotipo oficial de Quercus Flumen Wild, proyecto de observación ecológica y transformación vegetal aplicada al agua de acuario blacwater](/assets/images/logo-quercus-flumen-wild.jpg)
 {: loading="lazy" decoding="async" width="1536" height="1536" }
 
-<div class="image-caption">
-Quercus Flumen — Observación ecológica y transformación vegetal aplicada al agua.
-</div>
-
 # QUERCUS FLUMEN  
 ## Observación ecológica y transformación vegetal aplicada al agua
 
