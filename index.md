@@ -35,6 +35,8 @@ dentro de un entorno forestal real vivido diariamente.
 ---
 
 # UN PROYECTO NACIDO DEL ENTORNO
+![Ilustración artística de la Peña de Francia y robledales de Quercus pyrenaica en la Sierra de Francia, representación visual del origen ecológico de Quercus Flumen](/assets/images/pena-de-francia-casarito-origen-quercus-flumen.jpg)
+{: loading="lazy" decoding="async" width="1536" height="1024" }
 
 Durante mucho tiempo, Quercus Flumen observó cómo la transformación vegetal modificaba lentamente el comportamiento del bosque y del agua.
 
