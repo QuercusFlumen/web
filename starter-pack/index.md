@@ -9,7 +9,9 @@ description: Guía práctica de preparación y uso de Wild
 # STARTER PACK  
 ## La forma más simple de empezar a utilizar Wild
 
-"Starter Pack 20g" es nuestro primer formato comercial.
+![Producto Starter Pack 20G de Wild de Quercus Flumen junto a extracto botánico forestal preparado para sistemas blackwater y acuarios naturales](/assets/images/starter-pack-20g-wild-quercus-flumen.jpg)
+{: loading="lazy" decoding="async" width="1024" height="1536" }
+
 Si has llegado hasta aquí,
 probablemente Wild ya está contigo.
 
