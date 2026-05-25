@@ -84,6 +84,9 @@ Parte importante de la complejidad de estos entornos aparece lentamente dentro d
 
 # WILD
 
+![Producto comercial Wild de Quercus Flumen junto a extracto botánico forestal obtenido mediante extracción controlada en sistemas blackwater](/assets/images/quercus-flumen-wild-producto-comercial.jpg)
+{: loading="lazy" decoding="async" width="1536" height="1536" }
+
 Wild es nuestro producto, un Concentrado Botánico Forestal de perfil complejo.
 
 <br>
