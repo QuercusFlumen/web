@@ -35,6 +35,7 @@ dentro de un entorno forestal real vivido diariamente.
 ---
 
 # UN PROYECTO NACIDO DEL ENTORNO
+
 ![Ilustración artística de la Peña de Francia y robledales de Quercus pyrenaica en la Sierra de Francia, representación visual del origen ecológico de Quercus Flumen](/assets/images/pena-de-francia-casarito-origen-quercus-flumen.jpg)
 {: loading="lazy" decoding="async" width="1536" height="1024" }
 
@@ -60,6 +61,9 @@ El acuario apareció después como una forma de reinterpretar parte de esos comp
 ---
 
 # MÁS ALLÁ DEL BLACKWATER VISUAL
+
+![Diagrama conceptual del sistema Blackwater de Quercus Flumen mostrando extracción controlada de compuestos orgánicos desde materia vegetal forestal transformada](/assets/images/quercus-flumen-blackwater.jpg)
+{: loading="lazy" decoding="async" width="1536" height="1024" }
 
 Quercus Flumen no interpreta el blackwater únicamente como agua oscura o coloración estética.
 
