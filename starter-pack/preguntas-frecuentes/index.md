@@ -301,4 +301,19 @@ cuando el usuario aprende junto al acuario.
 
 <br>
 
+---
+
+## ¿Puede utilizarse Wild como infusión o producto alimentario?
+
+Aunque Wild desarrolla perfiles aromáticos vegetales complejos durante la extracción,
+el producto ha sido desarrollado exclusivamente para uso en acuariofilia.
+
+Wild no se comercializa ni se distribuye como producto alimentario o destinado a consumo humano.
+
+<br>
+
+---
+
 → [Volver a Starter Pack](../)
+
+
