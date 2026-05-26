@@ -34,7 +34,7 @@ Sino para ayudarte a empezar a utilizar Wild de una forma:
 
 # WILD COMO HERRAMIENTA
 
-Wild es un Concentrado Botánico Forestal natural de perfil complejo desarrollado por Quercus Flumen.
+Wild es un Concentrado Botánico Forestal natural de perfil complejo para sistemas Blackwater y acuarios naturalistas.
 
 <br>
 
