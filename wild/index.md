@@ -3,7 +3,7 @@ layout: default
 title: Wild
 nav_order: 3
 has_children: true
-description: nuestro producto Concentrado Botánico Forestal desarrollado por Quercus Flumen
+description: Producto Concentrado Botánico Forestal para acuarios Blackwater y naturalistas. Desarrollado por Quercus Flumen
 ---
 
 # WILD  
