@@ -3,7 +3,7 @@ layout: default
 title: Starter Pack
 nav_order: 4
 has_children: true
-description: Guía práctica de preparación y uso de Wild
+description: Guía práctica de preparación y uso de Wild. Sistemas Blackwater y acuariofilia naturalista 
 ---
 
 # STARTER PACK  
@@ -34,7 +34,7 @@ Sino para ayudarte a empezar a utilizar Wild de una forma:
 
 # WILD COMO HERRAMIENTA
 
-Wild es un Concentrado Botánico Forestal natural desarrollado por Quercus Flumen.
+Wild es un Concentrado Botánico Forestal natural de perfil complejo desarrollado por Quercus Flumen.
 
 <br>
 
