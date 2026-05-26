@@ -7,7 +7,7 @@ description: Concepto, construcción y propósito de Wild
 ---
 
 # QUÉ ES WILD  
-## Concentrado Botánico Forestal desarrollado por Quercus Flumen
+## Concentrado Botánico Forestal de perfil complejo para biotopos Blackwater y acuarios naturalistas.
 
 Wild es un Concentrado Botánico Forestal natural diseñado para la obtención de un concentrado líquido complejo, progresivo y profundamente influenciado por la transformación vegetal.
 
