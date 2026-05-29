@@ -26,7 +26,7 @@ Wild surge intentando comprender algo mucho más profundo:
 
 <br>
 
-> cómo evoluciona realmente la materia vegetal dentro del tiempo y cómo esa transformación modifica el comportamiento del agua.
+> cómo evoluciona realmente la materia vegetal con el paso del tiempo y cómo esa transformación modifica el comportamiento del agua.
 
 ---
 
