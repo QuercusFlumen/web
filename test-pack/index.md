@@ -1,6 +1,7 @@
 ---
 layout: default
 title: TEST PACK
+nav_exclude: true
 description: Programa experimental de observación y feedback de Wild
 ---
 
