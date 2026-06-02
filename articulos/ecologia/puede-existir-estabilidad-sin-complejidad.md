@@ -193,5 +193,5 @@ Tal vez lo alcance conectando cada vez más piezas entre sí.
 - [El suelo forestal nunca está terminado](/articulos/ecologia/el-suelo-forestal-nunca-esta-terminado/)
 - [¿Importa el ciclo ecológico que creó una hoja?](/articulos/ecologia/importa-el-ciclo-ecologico-que-creo-una-hoja/)
 - [¿Puede un bosque producir la misma hoja dos años seguidos?](/articulos/ecologia/puede-un-bosque-producir-la-misma-hoja-dos-anos-seguidos/)
-[La estabilidad ecológica rara vez es inmediata](/articulos/ecologia/la-estabilidad-ecologica-rara-vez-es-inmediata/)
+- [La estabilidad ecológica rara vez es inmediata](/articulos/ecologia/la-estabilidad-ecologica-rara-vez-es-inmediata/)
 - [Los ecosistemas no maduran en días](/articulos/observacion/los-ecosistemas-no-maduran-en-dias/)
