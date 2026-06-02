@@ -6,6 +6,8 @@ description: "Observación y transformación forestal aplicada al agua. Extracto
 url: "https://www.quercusflumen.com"
 baseurl: ""
 
+permalink: pretty
+
 lang: es-ES
 locale: es_ES
 
@@ -50,4 +52,4 @@ toc:
 back_to_top: true
 back_to_top_text: "Volver arriba"
 
-permalink: pretty
+
