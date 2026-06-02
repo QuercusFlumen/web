@@ -50,8 +50,4 @@ toc:
 back_to_top: true
 back_to_top_text: "Volver arriba"
 
-collections:
-  articulos:
-    output: true
-    permalink: /articulos/:path/
-    
+permalink: pretty
