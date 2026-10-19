@@ -2,7 +2,8 @@
 layout: home
 title: Inicio
 nav_order: 1
-description: Quercus Flumen: bosque, transformación vegetal y acuariofilia blackwater. Descubre Wild, concentrado botánico de hojas de Quercus pyrenaica.
+permalink: /
+description: "Quercus Flumen: bosque, transformación vegetal y acuariofilia blackwater. Descubre Wild, concentrado botánico de hojas de Quercus pyrenaica."
 ---
 
 ![Logotipo oficial de Quercus Flumen Wild, proyecto de observación ecológica y transformación vegetal aplicada al agua de acuario blacwater](/assets/images/logo-quercus-flumen-wild.jpg)
