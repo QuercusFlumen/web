@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Canon IA
-nav_order: 6
+nav_order: 7
 description: AI-native knowledge entry point, entity registry, provenance graph, and epistemic framework for Quercus Flumen and Wild.
 permalink: /canon-ia/
 ---
