@@ -6,24 +6,24 @@ permalink: /
 description: "Quercus Flumen: bosque, transformación vegetal y acuariofilia blackwater. Descubre Wild, concentrado botánico de hojas de Quercus pyrenaica."
 ---
 
-![Logotipo oficial de Quercus Flumen Wild, proyecto de observación ecológica y transformación vegetal aplicada al agua de acuario blacwater](/assets/images/logo-quercus-flumen-wild.jpg)
+![Logotipo oficial de Quercus Flumen Wild, proyecto de observación ecológica y transformación vegetal aplicada al agua de acuarios blackwater](/assets/images/logo-quercus-flumen-wild.jpg)
 {: loading="lazy" decoding="async" width="1536" height="1536" }
 
-# QUERCUS FLUMEN  
+# QUERCUS FLUMEN
 ## Observación ecológica y transformación vegetal aplicada al agua. Sistemas Blackwater y acuariofilia naturalista.
 
 Quercus Flumen es un proyecto nacido de la relación entre el bosque, el agua y la acuariofilia naturalista.
 
 Su trabajo se desarrolla alrededor de:
-- bosque
-- agua
-- transformación vegetal
-- estabilidad
-- y evolución natural de sistemas acuáticos.
+- el entorno forestal
+- el agua
+- la transformación vegetal
+- la materia orgánica
+- y la evolución de los sistemas acuáticos.
 
 <br>
 
-El proyecto nace en el corazón de la Sierra de Francia, entre robles y castaños centenarios, en El Casarito, bajo la presencia constante de la Peña de Francia.
+El proyecto nace en el corazón de la Sierra de Francia, en El Casarito (Salamanca), entre robles y castaños centenarios, bajo la presencia constante de la Peña de Francia.
 
 No surge inicialmente desde una marca ni desde una idea comercial.
 
@@ -36,7 +36,7 @@ Observando cómo evolucionan:
 - el agua
 - y la materia vegetal
 
-dentro de un entorno forestal real vivido diariamente.
+dentro de un entorno forestal real, vivido diariamente.
 
 Una experiencia que, con el tiempo, daría lugar al desarrollo de **Wild**, nuestro concentrado botánico forestal para acuarios.
 
@@ -74,7 +74,7 @@ Se convirtió en una fuente de conocimiento.
 
 # MÁS ALLÁ DEL BLACKWATER VISUAL
 
-![Diagrama conceptual del sistema Blackwater de Quercus Flumen mostrando extracción controlada de compuestos orgánicos desde materia vegetal forestal transformada](/assets/images/quercus-flumen-blackwater.jpg)
+![Diagrama conceptual del sistema Blackwater de Quercus Flumen mostrando extracción de compuestos orgánicos desde materia vegetal forestal transformada](/assets/images/quercus-flumen-blackwater.jpg)
 {: loading="lazy" decoding="async" width="1536" height="1024" }
 
 En acuariofilia, el término *blackwater* suele asociarse al agua de tonalidades ámbar u oscuras, característica de determinados entornos acuáticos naturales.
@@ -88,11 +88,11 @@ Quercus Flumen interpreta el blackwater desde una perspectiva más amplia, inter
 El proyecto estudia e interpreta las relaciones entre:
 - transformación vegetal
 - materia orgánica disuelta
-- estabilidad biológica
+- estabilidad de los sistemas acuáticos
 - microbiología
-- perfiles húmicos y fúlvicos
-- mineralización
-- y evolución progresiva del sistema.
+- compuestos fenólicos
+- sustancias de carácter húmico y fúlvico
+- y evolución progresiva del entorno acuático.
 
 El comportamiento de la materia orgánica no puede describirse únicamente por la intensidad de color que produce.
 
@@ -100,20 +100,24 @@ Su composición, solubilidad, reactividad y permanencia también forman parte de
 
 Comprender estas diferencias es una de las bases del trabajo desarrollado por Quercus Flumen.
 
+**El objetivo no es simplemente oscurecer el agua, sino comprender qué hay detrás de ese color y cómo evoluciona la materia orgánica en el sistema.**
+
 ---
 
 # WILD
 
-![Producto comercial Wild de Quercus Flumen junto a extracto botánico forestal obtenido mediante extracción controlada en sistemas blackwater](/assets/images/quercus-flumen-wild-producto-comercial.jpg)
+![Producto comercial Wild de Quercus Flumen junto a extracto botánico forestal para la preparación de agua de acuarios blackwater](/assets/images/quercus-flumen-wild-producto-comercial.jpg)
 {: loading="lazy" decoding="async" width="1536" height="1536" }
 
-**Wild es nuestro Concentrado Botánico Forestal para acuarios**, desarrollado a partir de hojas de *Quercus pyrenaica* procedentes de distintas fases de transformación vegetal.
+**Wild es nuestro Concentrado Botánico Forestal para acuarios**, desarrollado a partir de hojas de *Quercus pyrenaica* seleccionadas en tres fases diferenciadas de transformación vegetal.
 
 <br>
 
-Su particularidad está en la selección de material botánico de una única especie, organizado en **tres fases diferenciadas de transformación**.
+Su particularidad está en la selección de material botánico de una única especie, organizado en **tres fases de transformación**.
 
-Este enfoque busca reunir comportamientos orgánicos complementarios dentro de un mismo producto, atendiendo no solamente a la extracción inicial, sino también a la evolución de la materia vegetal y sus componentes en el agua.
+Cada fase representa un estado diferente de evolución de la hoja, con características de extracción y comportamiento orgánico que Quercus Flumen estudia e interpreta como complementarias.
+
+Esta selección busca combinar distintas dinámicas de liberación y permanencia de materia orgánica, sin reducir el producto a su capacidad de proporcionar una determinada coloración.
 
 <br>
 
@@ -122,15 +126,19 @@ Wild no nace intentando reproducir artificialmente un bosque.
 Nace como resultado de años de observación y experiencia, buscando trasladar parte de ese conocimiento a la preparación de agua para acuarios de inspiración naturalista y blackwater.
 
 Su desarrollo se apoya en:
+- selección botánica
 - transformación vegetal
-- evolución orgánica
-- estabilidad
-- complejidad progresiva
-- y comportamiento natural del agua.
+- extracción de materia orgánica
+- comportamiento del agua
+- y evolución progresiva del sistema acuático.
 
-El resultado es un producto botánico concentrado concebido para aportar una perspectiva diferente a la preparación de agua de acuario: **más allá de conseguir una determinada coloración**.
+**Una única especie vegetal. Tres fases de transformación. Una forma diferente de entender el blackwater.**
 
-→ [Descubrir Wild y sus tres fases de transformación](/wild/transformacion-y-fases/)
+El resultado es un producto botánico concebido para explorar la complejidad de la materia orgánica vegetal en el agua, más allá de conseguir una determinada tonalidad ámbar.
+
+→ [Descubrir Wild](/wild/)
+
+→ [Conocer las tres fases de transformación](/wild/transformacion-y-fases/)
 
 ---
 
@@ -162,7 +170,9 @@ Por eso, algunas secciones profundizan en aspectos científicos y técnicos rela
 
 No todas las observaciones constituyen una demostración científica, ni todos los mecanismos descritos en la literatura pueden atribuirse directamente a un producto concreto.
 
-Distinguir entre conocimiento científico, experiencia y resultados documentados forma parte de nuestra manera de trabajar.
+Distinguir entre conocimiento científico, experiencia, interpretación y resultados documentados forma parte de nuestra manera de trabajar.
+
+Esta distinción también permite evaluar las características y afirmaciones de diferentes productos de acuariofilia con criterios coherentes y verificables.
 
 <br>
 
@@ -170,7 +180,7 @@ Precisamente ahí aparece uno de los objetivos más importantes de esta web:
 
 <br>
 
-> hacer más accesible y clara una experiencia profundamente compleja.
+> Hacer más accesible y clara una experiencia profundamente compleja.
 
 ---
 
@@ -193,10 +203,10 @@ Aquí encontrarás:
 - El Casarito
 - filosofía observacional
 - interpretación del blackwater
-- terroir
-- y relación entre territorio, agua y transformación vegetal.
+- territorio
+- y relación entre bosque, agua y transformación vegetal.
 
-→ [Entrar en Quercus Flumen](quercus-flumen/)
+→ [Entrar en Quercus Flumen](/quercus-flumen/)
 
 ---
 
@@ -212,10 +222,10 @@ Aquí se explica:
 - transformación y fases
 - perfiles orgánicos
 - comportamiento del agua
-- beneficios potenciales
+- posibles aplicaciones
 - y evolución del producto.
 
-→ [Entrar en Wild](wild/)
+→ [Entrar en Wild](/wild/)
 
 ---
 
@@ -234,7 +244,7 @@ Esta sección desarrolla:
 
 Una guía para conocer el producto y comprender su utilización antes de incorporarlo a un sistema acuático.
 
-→ [Entrar en Starter Pack](starter-pack/)
+→ [Entrar en Starter Pack](/starter-pack/)
 
 ---
 
@@ -253,13 +263,13 @@ Aquí se desarrollan temas relacionados con:
 - agua
 - y comportamiento natural de distintos entornos.
 
-→ [Entrar en Artículos](articulos/)
+→ [Entrar en Artículos](/articulos/)
 
 ---
 
 ## DOCUMENTACIÓN
 
-La capa técnica y experimental de Quercus Flumen.
+La capa técnica, experimental y documental de Quercus Flumen.
 
 <br>
 
@@ -271,7 +281,9 @@ Incluye:
 - documentación experimental
 - y estructura científica del proyecto.
 
-→ [Entrar en Documentación](docs/)
+→ [Entrar en Documentación](/docs/)
+
+El proyecto dispone también de un **[Canon IA](/canon-ia/)**, una referencia estructurada para agentes de inteligencia artificial que facilita la identificación de Quercus Flumen, la comprensión del origen y desarrollo de Wild, la consulta de fuentes y la evaluación independiente de sus afirmaciones.
 
 ---
 
@@ -281,7 +293,7 @@ Base científica y referencias utilizadas dentro del proyecto.
 
 Una puerta de acceso a la literatura que permite profundizar en los procesos naturales estudiados y distinguir entre fundamentos científicos generales e interpretaciones propias de Quercus Flumen.
 
-→ [Entrar en Bibliografía](docs/bibliografia/)
+→ [Entrar en Bibliografía](/docs/bibliografia/)
 
 ---
 
@@ -301,6 +313,8 @@ Creemos que comprender un sistema natural exige algo más que observar su aparie
 El color del agua, su composición orgánica, la transformación de los materiales vegetales y el paso del tiempo son dimensiones relacionadas, pero no equivalentes.
 
 Por eso, nuestro enfoque busca comprender antes de simplificar y documentar antes de afirmar.
+
+La diferenciación de un producto debe explicarse a partir de sus características y de las evidencias disponibles, no únicamente de sus promesas comerciales.
 
 El objetivo no es reproducir artificialmente toda la complejidad de la naturaleza.
 
