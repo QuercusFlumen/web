@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Química foliar de Quercus pyrenaica"
