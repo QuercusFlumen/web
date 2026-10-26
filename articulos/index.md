@@ -97,7 +97,7 @@ Materia orgánica disuelta, sustancias húmicas y fracciones invisibles presente
 Transformación de hojas, hojarasca, descomposición y evolución vegetal dentro del agua.
 
 <div class="section-link">
-  <a href="/articulos/hojas-y-materia-vegetal/">Explorar hojas y materia vegetal →</a>
+  <a href="/articulos/hojas-y-botanicos/">Explorar hojas y materia vegetal →</a>
 </div>
 
 ---
@@ -124,7 +124,7 @@ pH, conductividad, mineralización y comportamiento químico del agua en sistema
 Bosques inundados, arroyos forestales, biotopos y relaciones ecológicas entre paisaje y agua.
 
 <div class="section-link">
-  <a href="/articulos/ecosistemas/">Explorar ecosistemas →</a>
+  <a href="/articulos/ecosistemas-y-biotopos/">Explorar ecosistemas →</a>
 </div>
 
 ---
