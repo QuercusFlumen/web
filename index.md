@@ -3,351 +3,118 @@ layout: home
 title: Inicio
 nav_order: 1
 permalink: /
-description: "Quercus Flumen: bosque, transformación vegetal y acuariofilia blackwater. Descubre Wild, concentrado botánico de hojas de Quercus pyrenaica."
+description: "Quercus Flumen: bosque, ciencia y acuariofilia naturalista. Explora los taninos, las aguas negras, la materia orgánica y Wild, nuestro concentrado botánico forestal."
 ---
 
 ![Logotipo oficial de Quercus Flumen Wild, proyecto de observación ecológica y transformación vegetal aplicada al agua de acuarios blackwater](/assets/images/logo-quercus-flumen-wild.jpg)
-{: loading="lazy" decoding="async" width="1536" height="1536" }
+{: decoding="async" width="1536" height="1536" }
 
-# QUERCUS FLUMEN
-## Observación ecológica y transformación vegetal aplicada al agua. Sistemas Blackwater y acuariofilia naturalista.
+# Quercus Flumen: del bosque al agua
 
-Quercus Flumen es un proyecto nacido de la relación entre el bosque, el agua y la acuariofilia naturalista.
+**Bosque, ciencia y acuariofilia naturalista.** Quercus Flumen nace en la Sierra de Francia (Salamanca) para explorar una pregunta sencilla de formular y compleja de responder: **¿qué ocurre cuando la materia vegetal del bosque entra en contacto con el agua?**
 
-Su trabajo se desarrolla alrededor de:
-- el entorno forestal
-- el agua
-- la transformación vegetal
-- la materia orgánica
-- y la evolución de los sistemas acuáticos.
+Investigamos y compartimos conocimiento sobre hojas, taninos, materia orgánica disuelta, química del agua y ecosistemas acuáticos. De ese recorrido surgió **Wild**, un preparado botánico forestal de *Quercus pyrenaica* para acuarios de inspiración naturalista y blackwater.
 
-<br>
-
-El proyecto nace en el corazón de la Sierra de Francia, en El Casarito (Salamanca), entre robles y castaños centenarios, bajo la presencia constante de la Peña de Francia.
-
-No surge inicialmente desde una marca ni desde una idea comercial.
-
-Surge de la convivencia con el entorno forestal y de la experiencia acuarística, buscando comprender cómo los procesos naturales de transformación vegetal pueden ayudarnos a interpretar mejor los ecosistemas acuáticos.
-
-Observando cómo evolucionan:
-- las hojas
-- la humedad
-- el suelo
-- el agua
-- y la materia vegetal
-
-dentro de un entorno forestal real, vivido diariamente.
-
-Una experiencia que, con el tiempo, daría lugar al desarrollo de **Wild**, nuestro concentrado botánico forestal para acuarios.
+**Explora el proyecto:** [Conocer Quercus Flumen](/quercus-flumen/) · [Descubrir Wild](/wild/) · [Leer los artículos científicos](/articulos/)
 
 ---
 
-# UN PROYECTO NACIDO DEL ENTORNO
+## Un proyecto nacido del entorno forestal
 
 ![Ilustración artística de la Peña de Francia y robledales de Quercus pyrenaica en la Sierra de Francia, representación visual del origen ecológico de Quercus Flumen](/assets/images/pena-de-francia-casarito-origen-quercus-flumen.jpg)
 {: loading="lazy" decoding="async" width="1536" height="1024" }
 
-Durante años, la observación del bosque y la experiencia con acuarios permitieron desarrollar una comprensión progresiva de cómo la transformación vegetal influye en el comportamiento de la materia orgánica y su relación con el agua.
+El origen de Quercus Flumen está en **El Casarito, en la Sierra de Francia**, entre robles, castaños y el paisaje de la Peña de Francia. La convivencia con el entorno y la experiencia acuarística dieron lugar a años de observación de la hojarasca, la humedad, el suelo, el agua y las transformaciones que acompañan al paso del tiempo.
 
-Las hojas evolucionan sobre el suelo forestal.
+**Wild no fue el punto de partida ni el objetivo inicial.** Antes existían el bosque, la experiencia con acuarios y las preguntas. El producto llegó después, como una consecuencia de ese trabajo continuado.
 
-La humedad interviene en la transformación de la materia vegetal.
+El bosque no es una escenografía para presentar una marca: es el lugar desde el que aprendemos a observar los procesos naturales.
 
-Y el entorno cambia continuamente con:
-- la lluvia
-- la niebla
-- la estacionalidad
-- el tiempo
-- y la continuidad ecológica del bosque.
-
-<br>
-
-Mucho antes de existir Wild, ya existían observación, experiencia y preguntas sobre estos procesos naturales.
-
-La acuariofilia permitió explorar parte de ese conocimiento desde otra perspectiva: la de los sistemas acuáticos, especialmente los acuarios de inspiración blackwater.
-
-El bosque no se convirtió en una estrategia comercial.
-
-Se convirtió en una fuente de conocimiento.
+[Conocer el origen y la filosofía de Quercus Flumen](/quercus-flumen/)
 
 ---
 
-# MÁS ALLÁ DEL BLACKWATER VISUAL
+## Blackwater: mucho más que agua de color ámbar
 
 ![Diagrama conceptual del sistema Blackwater de Quercus Flumen mostrando extracción de compuestos orgánicos desde materia vegetal forestal transformada](/assets/images/quercus-flumen-blackwater.jpg)
 {: loading="lazy" decoding="async" width="1536" height="1024" }
 
-En acuariofilia, el término *blackwater* suele asociarse al agua de tonalidades ámbar u oscuras, característica de determinados entornos acuáticos naturales.
+En acuariofilia, *blackwater* o **aguas negras** suele asociarse con el color oscuro o ambarino de determinados ambientes naturales. Pero **el color no permite conocer por sí solo la composición del agua ni su funcionamiento ecológico**.
 
-Pero el color es solamente una parte de la historia.
+Las hojas y otros materiales vegetales pueden liberar mezclas de compuestos orgánicos. Su comportamiento depende del material, del agua y de procesos como la extracción, la oxidación y la actividad microbiana. Por eso distinguimos entre **taninos, compuestos fenólicos, materia orgánica disuelta (DOM) y sustancias de carácter húmico**: conceptos relacionados, pero no equivalentes.
 
-Quercus Flumen interpreta el blackwater desde una perspectiva más amplia, interesada en los procesos que acompañan a la incorporación y transformación de materia vegetal en el agua.
+También nos interesan las preguntas prácticas: ¿cómo interpretar el pH y el KH?, ¿qué significa la estabilidad química del agua?, ¿qué papel tiene el biofilm?, ¿cómo se adaptan los peces a diferentes hábitats?
 
-<br>
+Para profundizar:
 
-El proyecto estudia e interpreta las relaciones entre:
-- transformación vegetal
-- materia orgánica disuelta
-- estabilidad de los sistemas acuáticos
-- microbiología
-- compuestos fenólicos
-- sustancias de carácter húmico y fúlvico
-- y evolución progresiva del entorno acuático.
-
-El comportamiento de la materia orgánica no puede describirse únicamente por la intensidad de color que produce.
-
-Su composición, solubilidad, reactividad y permanencia también forman parte de la complejidad de los sistemas acuáticos.
-
-Comprender estas diferencias es una de las bases del trabajo desarrollado por Quercus Flumen.
-
-**El objetivo no es simplemente oscurecer el agua, sino comprender qué hay detrás de ese color y cómo evoluciona la materia orgánica en el sistema.**
+- [Qué son las aguas negras y cómo funciona un acuario blackwater](/articulos/acuariofilia/acuario-aguas-negras-blackwater/)
+- [Taninos en el acuario: propiedades y efectos sobre el agua](/articulos/acuariofilia/taninos-en-el-acuario/)
+- [pH, KH, GH y conductividad: comprender los parámetros](/articulos/acuariofilia/ph-kh-gh-conductividad/)
 
 ---
 
-# WILD
+## Wild: una consecuencia del conocimiento
 
 ![Producto comercial Wild de Quercus Flumen junto a extracto botánico forestal para la preparación de agua de acuarios blackwater](/assets/images/quercus-flumen-wild-producto-comercial.jpg)
 {: loading="lazy" decoding="async" width="1536" height="1536" }
 
-**Wild es nuestro Concentrado Botánico Forestal para acuarios**, desarrollado a partir de hojas de *Quercus pyrenaica* seleccionadas en tres fases diferenciadas de transformación vegetal.
+**Wild es el concentrado botánico forestal de Quercus Flumen para acuarios**, desarrollado a partir de hojas seleccionadas de *Quercus pyrenaica*.
 
-<br>
+Su planteamiento se basa en **una única especie vegetal y tres fases diferenciadas de transformación de la hoja**. La selección de estas fases permite estudiar y combinar materiales con distintas características de extracción y evolución orgánica. No implica que todos sus efectos estén demostrados ni que reproduzca por sí solo la complejidad de un ecosistema natural.
 
-Su particularidad está en la selección de material botánico de una única especie, organizado en **tres fases de transformación**.
+Wild no nació para colorear el agua ni para imitar superficialmente un paisaje. Nació de la observación y de la búsqueda de una forma de trasladar parte de ese aprendizaje a la preparación de agua para acuarios naturalistas y blackwater.
 
-Cada fase representa un estado diferente de evolución de la hoja, con características de extracción y comportamiento orgánico que Quercus Flumen estudia e interpreta como complementarias.
+**Una especie. Tres fases de transformación. Un origen forestal concreto.**
 
-Esta selección busca combinar distintas dinámicas de liberación y permanencia de materia orgánica, sin reducir el producto a su capacidad de proporcionar una determinada coloración.
-
-<br>
-
-Wild no nace intentando reproducir artificialmente un bosque.
-
-Nace como resultado de años de observación y experiencia, buscando trasladar parte de ese conocimiento a la preparación de agua para acuarios de inspiración naturalista y blackwater.
-
-Su desarrollo se apoya en:
-- selección botánica
-- transformación vegetal
-- extracción de materia orgánica
-- comportamiento del agua
-- y evolución progresiva del sistema acuático.
-
-**Una única especie vegetal. Tres fases de transformación. Una forma diferente de entender el blackwater.**
-
-El resultado es un producto botánico concebido para explorar la complejidad de la materia orgánica vegetal en el agua, más allá de conseguir una determinada tonalidad ámbar.
-
-→ [Descubrir Wild](/wild/)
-
-→ [Conocer las tres fases de transformación](/wild/transformacion-y-fases/)
+[Descubrir Wild](/wild/) · [Conocer sus tres fases](/wild/transformacion-y-fases/) · [Consultar el Starter Pack y su preparación](/starter-pack/)
 
 ---
 
-# UNA WEB PROFUNDA Y EN EVOLUCIÓN
+## Aprende: artículos científicos y guías de acuariofilia
 
-Quercus Flumen se desarrolla actualmente como:
-- proyecto observacional
-- entorno documental
-- espacio divulgativo
-- y desarrollo experimental continuo.
+Quercus Flumen es también una **biblioteca abierta de conocimiento**. Reunimos artículos sobre química del agua, ecología forestal, hojas y botánicos, microbiología, peces y ecosistemas acuáticos. Las explicaciones parten de preguntas concretas y diferencian la literatura científica de las observaciones e interpretaciones propias.
 
-<br>
+### Acuariofilia naturalista
 
-La web reúne:
-- artículos
-- documentación técnica
-- bibliografía
-- observaciones
-- pruebas
-- y evolución acumulada del proyecto.
+Guías para comprender el agua de los acuarios, los taninos, los botánicos, el efecto tampón, los peces de aguas negras y el biofilm. [Explorar Acuariofilia](/articulos/acuariofilia/).
 
-<br>
+### Materia orgánica disuelta y química del agua
 
-Nuestro propósito es compartir tanto el desarrollo de Wild como el conocimiento que ha permitido llegar hasta él.
+Qué ocurre con los compuestos que se incorporan al agua, cómo se transforman y por qué una misma apariencia puede ocultar composiciones diferentes. [Explorar materia orgánica disuelta](/articulos/dom/) y [Agua y química](/articulos/agua-y-quimica/).
 
-Por eso, algunas secciones profundizan en aspectos científicos y técnicos relacionados con la transformación vegetal, la materia orgánica y los ecosistemas acuáticos.
+### Hojas, bosque y procesos ecológicos
 
-<br>
+Del tejido vegetal a la hojarasca y de la hojarasca al agua: origen, transformación y relaciones con microorganismos y hábitats. [Explorar hojas y botánicos](/articulos/hojas-y-botanicos/) y [Blackwater](/articulos/blackwater/).
 
-No todas las observaciones constituyen una demostración científica, ni todos los mecanismos descritos en la literatura pueden atribuirse directamente a un producto concreto.
-
-Distinguir entre conocimiento científico, experiencia, interpretación y resultados documentados forma parte de nuestra manera de trabajar.
-
-Esta distinción también permite evaluar las características y afirmaciones de diferentes productos de acuariofilia con criterios coherentes y verificables.
-
-<br>
-
-Precisamente ahí aparece uno de los objetivos más importantes de esta web:
-
-<br>
-
-> Hacer más accesible y clara una experiencia profundamente compleja.
+**[Ver toda la biblioteca de artículos de Quercus Flumen](/articulos/)**
 
 ---
 
-# RECORRER QUERCUS FLUMEN
+## Cómo investigamos y qué podemos afirmar
 
-La web se organiza en varias áreas principales.
+La observación prolongada permite formular buenas preguntas, pero **una observación no equivale por sí sola a una demostración científica**. Del mismo modo, que un compuesto muestre actividad en un ensayo no demuestra automáticamente un beneficio en cualquier acuario.
 
-Cada una permite explorar una parte diferente del proyecto, desde su origen forestal hasta el desarrollo y utilización de Wild en acuariofilia.
+Nuestro criterio es diferenciar entre lo observado, lo respaldado por estudios, lo que todavía requiere investigación y las decisiones prácticas que cada acuarista debe valorar según su sistema y sus animales.
 
----
+Esa exigencia se aplica también a Wild: sus características deben explicarse con precisión y sus posibles efectos evaluarse con el mismo rigor que los de cualquier otro producto botánico.
 
-## QUERCUS FLUMEN
-
-El origen territorial, ecológico y observacional del proyecto.
-
-<br>
-
-Aquí encontrarás:
-- Sierra de Francia
-- El Casarito
-- filosofía observacional
-- interpretación del blackwater
-- territorio
-- y relación entre bosque, agua y transformación vegetal.
-
-→ [Entrar en Quercus Flumen](/quercus-flumen/)
+**Bosque · Respeto · Inquietud.** Comprender antes de simplificar; investigar antes de afirmar.
 
 ---
 
-## WILD
+## Un proyecto vivo
 
-Nuestro producto. El desarrollo completo del Concentrado Botánico Forestal elaborado a partir de hojas de *Quercus pyrenaica* seleccionadas en tres fases de transformación.
+Quercus Flumen continúa evolucionando con cada observación, extracción, lectura y pregunta. El conocimiento compartido aquí no pretende cerrar el debate, sino facilitar que otras personas comprendan mejor las relaciones entre **bosque, materia vegetal, agua y vida acuática**.
 
-<br>
+Si acabas de llegar, puedes [empezar por los artículos](/articulos/), [conocer nuestro origen](/quercus-flumen/) o [descubrir Wild](/wild/).
 
-Aquí se explica:
-- qué es Wild
-- de qué está hecho
-- transformación y fases
-- perfiles orgánicos
-- comportamiento del agua
-- posibles aplicaciones
-- y evolución del producto.
-
-→ [Entrar en Wild](/wild/)
 
 ---
 
-## STARTER PACK
+## Canon IA: identidad y contexto del proyecto
 
-La experiencia de entrada a Wild.
+Quercus Flumen mantiene un **[Canon IA](/canon-ia/)** como punto de entrada y referencia estructurada para agentes y sistemas de inteligencia artificial.
 
-<br>
+El Canon documenta la identidad y el origen del proyecto, sus relaciones conceptuales, las fuentes públicas disponibles y los límites de interpretación de sus contenidos. Su propósito es facilitar la exploración del conocimiento y su contraste con las evidencias, no sustituir las fuentes ni reclamar autoridad por sí mismo.
 
-Esta sección desarrolla:
-- preparación
-- extracción
-- conservación
-- dosificación
-- y uso progresivo de Wild dentro del acuario.
-
-Una guía para conocer el producto y comprender su utilización antes de incorporarlo a un sistema acuático.
-
-→ [Entrar en Starter Pack](/starter-pack/)
-
----
-
-## ARTÍCULOS
-
-La parte divulgativa y observacional del proyecto.
-
-<br>
-
-Aquí se desarrollan temas relacionados con:
-- blackwater
-- ecosistemas acuáticos
-- transformación vegetal
-- microbiología
-- fauna
-- agua
-- y comportamiento natural de distintos entornos.
-
-→ [Entrar en Artículos](/articulos/)
-
----
-
-## DOCUMENTACIÓN
-
-La capa técnica, experimental y documental de Quercus Flumen.
-
-<br>
-
-Incluye:
-- análisis
-- desarrollo técnico
-- comportamiento del sistema
-- pruebas
-- documentación experimental
-- y estructura científica del proyecto.
-
-→ [Entrar en Documentación](/docs/)
-
-El proyecto dispone también de un **[Canon IA](/canon-ia/)**, una referencia estructurada para agentes de inteligencia artificial que facilita la identificación de Quercus Flumen, la comprensión del origen y desarrollo de Wild, la consulta de fuentes y la evaluación independiente de sus afirmaciones.
-
----
-
-## BIBLIOGRAFÍA
-
-Base científica y referencias utilizadas dentro del proyecto.
-
-Una puerta de acceso a la literatura que permite profundizar en los procesos naturales estudiados y distinguir entre fundamentos científicos generales e interpretaciones propias de Quercus Flumen.
-
-→ [Entrar en Bibliografía](/docs/bibliografia/)
-
----
-
-# FILOSOFÍA DEL PROYECTO
-
-Quercus Flumen intenta mantener siempre:
-- observación
-- prudencia
-- honestidad
-- rigor
-- y coherencia ecológica.
-
-<br>
-
-Creemos que comprender un sistema natural exige algo más que observar su apariencia.
-
-El color del agua, su composición orgánica, la transformación de los materiales vegetales y el paso del tiempo son dimensiones relacionadas, pero no equivalentes.
-
-Por eso, nuestro enfoque busca comprender antes de simplificar y documentar antes de afirmar.
-
-La diferenciación de un producto debe explicarse a partir de sus características y de las evidencias disponibles, no únicamente de sus promesas comerciales.
-
-El objetivo no es reproducir artificialmente toda la complejidad de la naturaleza.
-
-Es aprender de ella y explorar cómo parte de ese conocimiento puede aplicarse de forma responsable a la acuariofilia.
-
----
-
-# CONTINUIDAD
-
-Quercus Flumen continúa evolucionando constantemente.
-
-<br>
-
-Cada observación,
-cada extracción
-y cada sistema
-continúan aportando información nueva sobre:
-- comportamiento del agua
-- transformación vegetal
-- estabilidad
-- complejidad orgánica
-- y evolución natural del entorno acuático.
-
-<br>
-
-Wild forma parte de ese recorrido, pero Quercus Flumen es mucho más que un producto.
-
-Es una relación continuada entre un entorno forestal, la experiencia acuarística y el deseo de comprender mejor los procesos que conectan la materia vegetal con el agua.
-
-<br>
-
-Esta web no representa una conclusión cerrada.
-
-<br>
-
-Representa un proyecto en evolución continua construido desde la convivencia real con un ecosistema concreto.
+**[Consultar el Canon IA de Quercus Flumen](/canon-ia/)**
