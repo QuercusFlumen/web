@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Artículos: acuariofilia, aguas negras y ecología del agua"
