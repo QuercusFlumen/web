@@ -2,6 +2,7 @@
 layout: default
 title: Acuariofilia
 parent: Artículos
+nav_order: 9
 nav_exclude: false
 has_children: true
 description: "Acuariofilia científica: taninos en acuarios, peces de agua dulce, biotopos amazónicos, aguas negras, química del agua, hojas naturales y microbiología."
