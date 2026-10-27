@@ -1,254 +1,124 @@
 ---
 layout: default
-title: Acuariofilia
+title: "Acuariofilia: guía científica de acuarios de agua dulce"
 parent: Artículos
 nav_order: 9
 nav_exclude: false
 has_children: true
-description: "Acuariofilia científica: taninos en acuarios, peces de agua dulce, biotopos amazónicos, aguas negras, química del agua, hojas naturales y microbiología."
+description: "Guías científicas de acuariofilia: pH, KH, GH, taninos, aguas negras, biotopos amazónicos, hojas de catappa, peces y biofilm."
 ---
 
-# Acuariofilia: ciencia, acuarios y ecosistemas acuáticos
+# Acuariofilia: ciencia y guías para acuarios de agua dulce
 
-Un acuario es un ecosistema en el que interactúan el agua, los peces, las plantas, los microorganismos, la materia orgánica y las condiciones ambientales.
+**¿Por qué cambia el pH de un acuario? ¿Qué hacen realmente los taninos? ¿Cómo funciona un acuario de aguas negras?** Para responder a estas preguntas no basta con observar el color del agua ni con perseguir un valor ideal en un test.
 
-Comprender estas relaciones permite ir más allá del mantenimiento cotidiano y entender los procesos que determinan el funcionamiento de los acuarios de agua dulce.
+En esta sección de **Quercus Flumen** reunimos once guías de acuariofilia basadas en química del agua, ecología y fisiología de los peces. Explicamos los mecanismos conocidos, distinguimos los resultados experimentales de las hipótesis y trasladamos ese conocimiento al mantenimiento responsable de acuarios de agua dulce.
 
-En **Quercus Flumen** exploramos la acuariofilia desde una perspectiva científica, con especial atención a la química del agua, los acuarios naturalistas, los biotopos amazónicos, las aguas negras y las relaciones entre los compuestos de origen vegetal y los organismos acuáticos.
+**Empieza por la pregunta que quieras resolver** o sigue el recorrido desde los fundamentos químicos hasta los ecosistemas y sus organismos.
 
-Nuestro objetivo es reunir conocimiento útil, comprensible y fundamentado, distinguiendo las observaciones, las hipótesis y los resultados respaldados por investigaciones científicas.
+## Química del agua: pH, dureza y estabilidad
 
----
+El pH, la dureza y la conductividad describen propiedades diferentes. Entenderlas permite interpretar las mediciones sin confundir agua ácida, agua blanda y agua poco mineralizada.
 
-## Química del agua y compuestos naturales
+### [pH, KH, GH y conductividad del acuario: guía completa](/articulos/acuariofilia/ph-kh-gh-conductividad/)
 
-La composición química del agua influye en numerosos procesos biológicos y ecológicos dentro de un acuario.
+**Para entender los parámetros del agua.** Qué mide cada valor, cómo se relacionan y por qué dos acuarios pueden tener el mismo pH y una composición química muy distinta. Un punto de partida útil antes de modificar el agua.
 
-El pH, la dureza, la conductividad, la materia orgánica disuelta y los compuestos liberados por materiales vegetales forman parte de un sistema de interacciones que no siempre resulta evidente.
+### [Efecto tampón en acuarios: estabilidad del pH más allá del KH](/articulos/acuariofilia/efecto-tampon-buffer-ph-acuario/)
 
-### 1. Taninos en el acuario: qué son y cómo afectan al agua y a los peces
+**Para comprender la estabilidad del pH.** Por qué un KH próximo a cero no descarta toda capacidad tampón, cómo intervienen determinados ácidos orgánicos y qué diferencia existe entre un pH estable y una resistencia real a las perturbaciones.
 
-Los taninos constituyen un conjunto diverso de compuestos fenólicos presentes en numerosos tejidos vegetales.
+## Taninos, polifenoles y materia orgánica disuelta
 
-Su comportamiento en el agua depende de su estructura química, concentración y condiciones ambientales.
+Las hojas y la madera liberan mezclas complejas de sustancias. No todas son taninos, no todas colorean el agua y no todas tienen el mismo comportamiento químico o biológico.
 
-Este artículo estudiará:
+### [Taninos en el acuario: qué son y cómo afectan al agua](/articulos/acuariofilia/taninos-en-el-acuario/)
 
-- Qué son los taninos y cómo se clasifican.
-- Qué materiales vegetales pueden liberarlos.
-- Cómo interactúan con otros componentes del agua.
-- Qué relación existe entre taninos, coloración y acidez.
-- Qué efectos biológicos han sido investigados.
-- Qué afirmaciones habituales en acuariofilia necesitan mayor evidencia.
+**Para empezar por los taninos.** Qué son, de dónde proceden, cómo interactúan con el medio y qué podemos afirmar sobre sus efectos en el agua y los peces sin confundir evidencia con expectativas.
 
-**Artículo en preparación.**
+### [Compuestos fenólicos en acuarios: química, agua y peces](/articulos/acuariofilia/compuestos-fenolicos-acuario/)
 
-### 2. Compuestos fenólicos y polifenoles en acuarios
+**Para ir más allá de los taninos.** Diferencias entre fenoles, polifenoles y otras familias de compuestos vegetales; oxidación, reactividad y límites de los estudios sobre actividad biológica.
 
-Los compuestos fenólicos abarcan numerosas moléculas de origen vegetal con propiedades químicas y biológicas diferentes.
+### [Ácidos húmicos, fúlvicos y materia orgánica disuelta](/articulos/acuariofilia/acidos-humicos-fulvicos-materia-organica-disuelta/)
 
-No todos los fenoles son taninos y no todos los compuestos fenólicos presentan el mismo comportamiento en el medio acuático.
+**Para comprender lo que no siempre vemos.** Qué es la materia orgánica disuelta (DOM), cómo se relaciona con las fracciones húmicas y fúlvicas y por qué el color ámbar no describe por sí solo la composición del agua.
 
-Estudiaremos:
+## Acuarios naturalistas, aguas negras y biotopos
 
-- Fenoles, polifenoles y taninos.
-- Estructura química y reactividad.
-- Solubilidad, oxidación y transformación.
-- Interacciones con metales y proteínas.
-- Actividad biológica y dependencia de la concentración.
-- Límites de extrapolación de los estudios experimentales.
+Un acuario naturalista no consiste únicamente en añadir hojas o teñir el agua. El hábitat también comprende sustratos, refugios, procesos microbianos y necesidades concretas de sus habitantes.
 
-**Artículo en preparación.**
+### [Acuario de aguas negras: guía científica del blackwater](/articulos/acuariofilia/acuario-aguas-negras-blackwater/)
 
-### 3. pH, KH, GH y conductividad: comprender el agua del acuario
+**Para comprender y planificar un acuario blackwater.** Qué caracteriza a las aguas negras, qué papel tienen la materia orgánica, la acidez y la mineralización, y qué conviene valorar en el montaje y mantenimiento.
 
-El equilibrio químico de un acuario no puede describirse mediante un único parámetro.
+### [Biotopo amazónico: tipos de aguas, hábitats y peces](/articulos/acuariofilia/biotopo-amazonico-tipos-aguas-peces/)
 
-Analizaremos:
+**Para conocer la diversidad amazónica.** Diferencias entre aguas negras, blancas y claras, bosques inundables y hábitats de peces. Una guía para evitar la idea de que existe un único tipo de acuario amazónico.
 
-- Qué mide realmente el pH.
-- Qué representan KH y GH.
-- Qué información aporta la conductividad.
-- Capacidad tampón y equilibrio ácido-base.
-- Relaciones entre mineralización y materia orgánica.
-- Diferencias entre agua ácida, blanda y poco mineralizada.
-- Interpretación de mediciones en acuarios de agua dulce.
+### [Hojas para acuarios: catappa, roble y otros botánicos](/articulos/acuariofilia/hojas-para-acuarios-catappa-roble-botanicos/)
 
-**Artículo en preparación.**
+**Para elegir materiales vegetales con criterio.** Qué cambia entre especies y estados de la hoja, cómo se liberan sustancias al agua y qué precauciones importan en la procedencia, preparación y utilización.
 
-### 4. Ácidos húmicos, ácidos fúlvicos y materia orgánica disuelta
+## Peces: fisiología, adaptación y bienestar
 
-Las aguas naturales contienen mezclas complejas de sustancias orgánicas procedentes de diferentes procesos biológicos y ambientales.
+Los efectos de la química del agua no son universales: dependen de la especie, su procedencia, las condiciones de exposición y el resto del entorno.
 
-Exploraremos:
+### [Taninos y salud de los peces: qué demuestra la ciencia](/articulos/acuariofilia/taninos-salud-peces-evidencia-cientifica/)
 
-- Qué es la materia orgánica disuelta o DOM.
-- Qué significan los términos húmico y fúlvico.
-- Cómo se caracterizan estas fracciones.
-- Relación entre materia orgánica y color del agua.
-- Interacciones con luz, microorganismos y minerales.
-- Transformación y persistencia de compuestos orgánicos.
-- Diferencias entre coloración visible y composición química.
+**Para separar investigación y afirmaciones comerciales.** Qué se ha estudiado sobre compuestos vegetales, fisiología, estrés y actividad antimicrobiana; y por qué un resultado de laboratorio no equivale automáticamente a un beneficio en el acuario.
 
-**Artículo en preparación.**
+### [Peces de aguas negras: adaptación, comportamiento y bienestar](/articulos/acuariofilia/peces-aguas-negras-adaptacion-bienestar/)
 
----
+**Para comprender a los habitantes del blackwater.** Regulación de sales, tolerancia a la acidez, percepción del entorno, comportamiento y diferencias entre adaptación evolutiva, aclimatación y bienestar en cautividad.
 
-## Acuarios naturalistas y biotopos
+## Microbiología: lo que ocurre sobre hojas y raíces
 
-Los ecosistemas acuáticos naturales presentan una diversidad extraordinaria de condiciones químicas, físicas y biológicas.
+Las superficies sumergidas albergan comunidades microbianas que intervienen en la transformación de la materia orgánica. Su presencia no significa automáticamente un problema ni garantiza que todo esté equilibrado.
 
-La acuariofilia de biotopo busca comprender y representar aspectos concretos de esos ambientes, teniendo en cuenta las necesidades de las especies mantenidas.
+### [Biofilm en el acuario: bacterias, hongos y equilibrio biológico](/articulos/acuariofilia/biofilm-acuario-bacterias-hongos/)
 
-### 5. Acuario de aguas negras: guía científica del blackwater
+**Para interpretar el biofilm blanco y la descomposición.** Por qué aparecen películas sobre troncos y hojas, cómo participan bacterias y hongos, qué relación existe con el oxígeno y cuándo conviene revisar las condiciones del acuario.
 
-Las aguas negras constituyen una categoría de ambientes acuáticos caracterizados por determinadas propiedades ópticas y químicas, aunque no todos estos ecosistemas presentan condiciones idénticas.
+## Preguntas frecuentes de acuariofilia
 
-Estudiaremos:
+### ¿Qué parámetros del agua debo comprender primero?
 
-- Qué son las aguas negras.
-- Origen de su coloración.
-- Materia orgánica y compuestos cromóforos.
-- pH, dureza y conductividad.
-- Diferencias entre aguas negras naturales y acuarios teñidos.
-- Microbiología y transformación de materia vegetal.
-- Condiciones relevantes para el mantenimiento de peces.
-- Límites de la reproducción de un ecosistema natural en un acuario.
+El **pH, KH, GH y la conductividad** aportan información complementaria. Ninguno, por sí solo, describe toda la calidad del agua. Empieza por la [guía de parámetros del acuario](/articulos/acuariofilia/ph-kh-gh-conductividad/).
 
-**Artículo en preparación.**
+### ¿Los taninos bajan el pH del acuario?
 
-### 6. Biotopo amazónico: tipos de aguas, hábitats y peces
+Depende de la composición del agua, la cantidad y naturaleza de las sustancias liberadas y su capacidad tampón. Añadir materiales vegetales no garantiza una bajada concreta. Consulta [taninos en el acuario](/articulos/acuariofilia/taninos-en-el-acuario/) y [efecto tampón y KH](/articulos/acuariofilia/efecto-tampon-buffer-ph-acuario/).
 
-La Amazonía alberga una gran diversidad de ecosistemas acuáticos.
+### ¿Un acuario de aguas negras necesita tener el agua muy oscura?
 
-Hablar de un único biotopo amazónico simplifica una realidad ecológica mucho más compleja.
+No necesariamente. La coloración es una propiedad óptica y no demuestra por sí sola que se hayan reproducido las condiciones químicas y ecológicas de un ambiente natural. Lo explicamos en la [guía de acuarios blackwater](/articulos/acuariofilia/acuario-aguas-negras-blackwater/).
 
-Analizaremos:
+### ¿Son mejores las hojas de catappa o las de roble?
 
-- Ríos de aguas negras, blancas y claras.
-- Diferencias geológicas y químicas.
-- Bosques inundables y variaciones estacionales.
-- Vegetación, hojarasca y materia orgánica.
-- Hábitats de peces amazónicos.
-- Diversidad de especies y adaptaciones ecológicas.
-- Criterios para interpretar un acuario de biotopo amazónico.
+No existe una respuesta universal. La composición depende de la especie, la parte vegetal, su estado y el tratamiento previo. La [guía de hojas para acuarios](/articulos/acuariofilia/hojas-para-acuarios-catappa-roble-botanicos/) explica cómo compararlas sin atribuir propiedades no demostradas.
 
-**Artículo en preparación.**
+### ¿Es peligroso el biofilm blanco que aparece en las raíces?
 
-### 7. Hojas para acuarios: catappa, roble y otros botánicos
+Una película localizada no demuestra por sí sola la presencia de una enfermedad. Debe valorarse junto con la oxigenación, la calidad del agua y el estado de los animales. Consulta la [guía sobre biofilm en acuarios](/articulos/acuariofilia/biofilm-acuario-bacterias-hongos/).
 
-Las hojas y otros materiales vegetales pueden experimentar transformaciones físicas, químicas y biológicas al entrar en contacto con el agua.
+## Profundiza en la biblioteca de Quercus Flumen
 
-Su comportamiento depende de la especie vegetal, la procedencia, el estado del material y las condiciones de utilización.
+Estas guías ofrecen una entrada práctica a temas que también abordamos desde la ecología y la química ambiental:
 
-Investigaremos:
+- [Agua y química](/articulos/agua-y-quimica/): mediciones, extracción botánica y comportamiento químico del agua.
+- [Materia orgánica disuelta (DOM)](/articulos/dom/): composición, transformaciones y relaciones con el color y la estabilidad.
+- [Blackwater](/articulos/blackwater/): interpretación ecológica de las aguas negras.
+- [Hojas y botánicos](/articulos/hojas-y-botanicos/): materiales vegetales y procesos de transformación.
+- [Microbiología](/articulos/microbiologia/): biofilms, descomposición y actividad microbiana.
+- [Fauna](/articulos/fauna/): relaciones entre peces, agua y hábitat.
 
-- Hojas de catappa y otras especies utilizadas en acuariofilia.
-- Hojas de roble y materiales forestales.
-- Diferencias entre composición vegetal y composición del extracto.
-- Liberación de sustancias solubles.
-- Descomposición y colonización microbiana.
-- Procedencia, contaminantes y trazabilidad.
-- Preparación y precauciones de utilización.
-- Qué comparaciones entre botánicos están respaldadas por evidencia.
+También puedes explorar el [archivo completo de artículos](/articulos/).
 
-**Artículo en preparación.**
+## Nuestro criterio: observar, preguntar y contrastar
 
----
+La acuariofilia reúne química, biología y ecología. Por eso una observación interesante no equivale automáticamente a una explicación demostrada, y un resultado experimental no puede generalizarse sin atender a sus condiciones.
 
-## Peces de agua dulce: fisiología y bienestar
+En Quercus Flumen buscamos ofrecer información **útil, verificable y abierta a nuevas preguntas**, respetando la complejidad de los ecosistemas acuáticos y el bienestar de sus organismos.
 
-El bienestar de los peces depende de múltiples factores, entre ellos la especie, la calidad del agua, la alimentación, el entorno físico y las interacciones biológicas.
-
-Las respuestas a una misma condición ambiental pueden variar considerablemente entre especies.
-
-### 8. Taninos y salud de los peces: qué demuestra la ciencia
-
-Los efectos biológicos de los extractos vegetales y los compuestos fenólicos han sido objeto de investigaciones en distintos contextos.
-
-Sin embargo, los resultados obtenidos con determinadas especies, concentraciones o métodos experimentales no pueden generalizarse automáticamente a todos los acuarios.
-
-Examinaremos:
-
-- Estudios sobre compuestos fenólicos y organismos acuáticos.
-- Respuestas fisiológicas y mecanismos propuestos.
-- Estrés y bienestar de los peces.
-- Branquias, mucosas y osmorregulación.
-- Investigaciones sobre actividad antimicrobiana.
-- Diferencias entre ensayos in vitro e in vivo.
-- Concentración, exposición y posibles efectos adversos.
-- Qué conclusiones pueden trasladarse razonablemente a la acuariofilia.
-
-**Artículo en preparación.**
-
-### 9. Peces de aguas negras: adaptación, comportamiento y bienestar
-
-Numerosas especies de peces habitan ambientes donde la luz, la mineralización, la acidez y la materia orgánica presentan características particulares.
-
-Estudiaremos:
-
-- Diversidad de peces asociados a aguas negras.
-- Adaptaciones fisiológicas a diferentes condiciones del agua.
-- Osmorregulación y equilibrio iónico.
-- Visión y comportamiento en ambientes de baja luminosidad.
-- Refugios, estructura del hábitat e interacciones sociales.
-- Variabilidad entre especies y poblaciones.
-- Condiciones ambientales y bienestar en cautividad.
-- Diferencias entre hábitat natural y necesidades de mantenimiento.
-
-**Artículo en preparación.**
-
----
-
-## Microbiología y equilibrio del acuario
-
-Los microorganismos participan en la transformación de nutrientes y materia orgánica, en la formación de comunidades sobre superficies y en numerosos procesos que condicionan el funcionamiento del acuario.
-
-### 10. Biofilm en el acuario: bacterias, hongos y equilibrio biológico
-
-El biofilm es una comunidad microbiana asociada a superficies y matrices extracelulares.
-
-Su presencia forma parte de numerosos ecosistemas acuáticos, aunque su composición y efectos dependen de las condiciones ambientales.
-
-Analizaremos:
-
-- Qué es un biofilm.
-- Cómo se desarrolla sobre superficies sumergidas.
-- Bacterias, hongos y otros microorganismos.
-- Descomposición de materia vegetal.
-- Relaciones con los ciclos de nutrientes.
-- Consumo de oxígeno y actividad respiratoria.
-- Biofilms como recurso alimentario para determinados organismos.
-- Diferencias entre procesos ecológicos habituales y situaciones problemáticas.
-
-**Artículo en preparación.**
-
----
-
-## Una biblioteca científica en evolución
-
-La acuariofilia combina conocimientos procedentes de diferentes disciplinas.
-
-Por ello, cada tema debe abordarse considerando las condiciones en que se han obtenido los resultados científicos, las diferencias entre especies y las limitaciones de los estudios disponibles.
-
-Esta sección se desarrollará progresivamente, incorporando referencias bibliográficas, investigaciones originales y conexiones con otros contenidos de Quercus Flumen.
-
-Mientras tanto, pueden consultarse nuestros contenidos existentes:
-
-- [Biblioteca de artículos](/articulos/): divulgación sobre aguas negras, materia orgánica, hojas, microbiología y ecología.
-- [Quercus Flumen Science](/quercus-flumen/science/): enfoque científico, metodología y preguntas de investigación.
-- [Wild Science](/wild/science/): fundamentos, observaciones y límites de conocimiento sobre Wild.
-
----
-
-## Nuestro criterio científico
-
-La observación permite formular preguntas.
-
-La investigación permite contrastarlas.
-
-Una hipótesis plausible no constituye por sí misma un resultado demostrado. Del mismo modo, una propiedad química observada en un extracto vegetal no demuestra automáticamente un beneficio para los peces.
-
-En Quercus Flumen buscamos explicar lo que se conoce, reconocer lo que permanece abierto y mantener una interpretación crítica de la evidencia disponible.
-
-**Comprender el acuario es comprender las relaciones entre el agua, la materia y la vida.**
+**Comprender el agua es también comprender la vida que depende de ella.**
