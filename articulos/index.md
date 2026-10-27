@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículos: acuariofilia, aguas negras y ecología del agua"
+title: "Artículos"
 nav_exclude: false
 nav_order: 5
 has_children: true
