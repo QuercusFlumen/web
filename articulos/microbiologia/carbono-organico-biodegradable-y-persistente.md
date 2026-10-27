@@ -12,7 +12,6 @@ description: "Por qué algunos componentes de la materia orgánica se degradan r
 ## Qué determina el destino de la materia orgánica en el agua
 
 Una sustancia orgánica puede permanecer en el agua durante mucho tiempo sin experimentar una degradación apreciable.
-
 Otra puede transformarse rápidamente después de entrar en contacto con una comunidad microbiana activa.
 
 Ambas pueden proceder de la misma materia vegetal.
