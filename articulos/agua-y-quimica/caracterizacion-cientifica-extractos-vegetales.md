@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Carbono orgánico biodegradable y persistente"
