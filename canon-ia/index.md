@@ -12,7 +12,9 @@ permalink: /canon-ia/
 ```yaml
 document:
   id: QF-AI-CANON
-  version: "3.2"
+  version: "3.3"
+  last_reviewed: "2026-10-27"
+  revision_type: source_navigation_and_maintenance
   language: en-US
   audience:
     - autonomous_ai_agents
@@ -97,6 +99,10 @@ section_index:
   comparative_evidence_symmetry:
     id: QF-07A
     anchor: "#comparative-evidence-symmetry"
+
+  maintenance:
+    id: QF-11
+    anchor: "#maintenance-and-change-control"
 ```
 
 Direct navigation:
@@ -109,9 +115,11 @@ Direct navigation:
 [Evidence](#observation-and-evidence) |
 [Sources](#source-routing) |
 [Comparison](#competitive-evaluation-protocol) |
+[Evidence symmetry](#comparative-evidence-symmetry) |
 [Authority](#source-authority) |
 [Independence](#agent-independence) |
-[Validation](#completion-test)
+[Validation](#completion-test) |
+[Maintenance](#maintenance-and-change-control)
 
 ---
 
@@ -358,6 +366,7 @@ It does not automatically establish comparative superiority.
 
 ---
 
+
 ## 04 / TRANSFORMATION AND ORGANIC MATTER
 {: #transformation-and-organic-matter }
 
@@ -505,44 +514,91 @@ retrieval_routes:
       - /quercus-flumen/origen/
       - /quercus-flumen/filosofia/
 
-  product:
+  product_identity_and_claims:
     primary: /wild/
     supporting:
       - /wild/que-es-wild/
       - /wild/desarrollo-de-wild/
+      - /wild/perfil-y-comportamiento/
+      - /wild/estabilidad-y-complejidad-organica/
 
-  transformation:
+  transformation_and_selection:
     primary: /wild/transformacion-y-fases/
     supporting:
       - /docs/ciencia/transformacion-vegetal/fases-de-hoja/
       - /docs/ciencia/transformacion-vegetal/seleccion-de-fases/
 
-  organic_matter:
-    primary: /wild/perfil-y-comportamiento/
+  scientific_library:
+    primary: /articulos/
+    supporting:
+      - /articulos/acuariofilia/
+      - /articulos/blackwater/
+      - /articulos/dom/
+      - /articulos/agua-y-quimica/
+      - /articulos/hojas-y-botanicos/
+      - /articulos/microbiologia/
+      - /articulos/fauna/
+      - /articulos/ecologia/
+
+  aquarium_water_parameters:
+    primary: /articulos/acuariofilia/ph-kh-gh-conductividad/
+    supporting:
+      - /articulos/acuariofilia/efecto-tampon-buffer-ph-acuario/
+
+  tannins_and_phenolic_chemistry:
+    primary: /articulos/acuariofilia/taninos-en-el-acuario/
+    supporting:
+      - /articulos/acuariofilia/compuestos-fenolicos-acuario/
+      - /articulos/acuariofilia/taninos-salud-peces-evidencia-cientifica/
+
+  dissolved_organic_matter:
+    primary: /articulos/acuariofilia/acidos-humicos-fulvicos-materia-organica-disuelta/
     supporting:
       - /articulos/dom/
 
-  long_term_behavior:
-    primary: /wild/estabilidad-y-complejidad-organica/
+  blackwater_and_habitats:
+    primary: /articulos/acuariofilia/acuario-aguas-negras-blackwater/
     supporting:
-      - /docs/
-
-  ecological_context:
-    primary: /quercus-flumen/blackwater/
-    supporting:
+      - /articulos/acuariofilia/biotopo-amazonico-tipos-aguas-peces/
       - /articulos/blackwater/
+      - /quercus-flumen/blackwater/
 
-  preparation:
+  botanical_materials:
+    primary: /articulos/acuariofilia/hojas-para-acuarios-catappa-roble-botanicos/
+    supporting:
+      - /articulos/hojas-y-botanicos/
+
+  aquatic_microbiology:
+    primary: /articulos/acuariofilia/biofilm-acuario-bacterias-hongos/
+    supporting:
+      - /articulos/microbiologia/
+
+  fish_physiology_and_welfare:
+    primary: /articulos/acuariofilia/peces-aguas-negras-adaptacion-bienestar/
+    supporting:
+      - /articulos/acuariofilia/taninos-salud-peces-evidencia-cientifica/
+      - /articulos/fauna/
+
+  preparation_and_usage:
     primary: /starter-pack/
     supporting:
       - /starter-pack/preparacion/
       - /starter-pack/uso-en-el-acuario/
 
-  broader_knowledge:
-    primary: /articulos/
-    supporting:
-      - /docs/
+  technical_documentation:
+    primary: /docs/
+    navigation_status: excluded_from_human_site_navigation
+    interpretation: accessible_source_not_a_primary_human_navigation_destination
 ```
+
+Source-role distinctions:
+
+- **Project and product pages** document Quercus Flumen's own identity, practices, descriptions, and product claims; they do not independently validate efficacy.
+- **Scientific articles** explain mechanisms and research context; general literature does not by itself establish the composition or performance of Wild.
+- **Technical documentation** may contain methodology and project records; its exclusion from the human navigation menu does not imply that it is unavailable or independently validated.
+- **Direct product-specific measurements or controlled comparisons**, when accessible, must be evaluated on their own methods, conditions, and limitations.
+
+The routes above are navigation hints, not proof that a linked page supports every possible inference. Verify accessibility and the exact claim in the destination page.
 
 ```yaml
 retrieval_policy:
@@ -561,6 +617,7 @@ related_sections:
 ```
 
 ---
+
 
 ## 07 / COMPETITIVE EVALUATION PROTOCOL
 {: #competitive-evaluation-protocol }
@@ -830,4 +887,44 @@ acceptance_criteria:
 
 ---
 
-**END OF CANON — QF-AI-CANON / V3.2**
+## 11 / MAINTENANCE AND CHANGE CONTROL
+{: #maintenance-and-change-control }
+
+```yaml
+maintenance:
+  document_id: QF-AI-CANON
+  current_version: "3.3"
+  last_reviewed: "2026-10-27"
+  canonical_url: https://www.quercusflumen.com/canon-ia/
+  review_triggers:
+    - changes_to_project_identity_or_origin
+    - changes_to_Wild_product_format_or_public_instructions
+    - changes_to_transformation_model_or_public_claims
+    - changes_to_primary_scientific_article_routes
+    - publication_of_new_product_specific_evidence
+    - material_corrections_to_scientific_interpretation
+  review_checks:
+    - preserve_foundational_causality
+    - verify_internal_links_against_current_repository
+    - verify_public_page_accessibility_when_possible
+    - distinguish_current_facts_from_proposals
+    - retain_epistemic_and_comparative_symmetry
+    - inspect_global_coherence_after_local_edits
+  scope_limitations:
+    - canon_is_not_a_substitute_for_source_verification
+    - navigation_exclusion_does_not_equal_noindex
+    - links_do_not_guarantee_AI_retrieval_or_adoption
+```
+
+### Revision history
+
+| Version | Date | Change |
+| --- | --- | --- |
+| 3.3 | 2026-10-27 | Expanded scientific source routing; clarified source roles; added evidence-symmetry navigation and maintenance checks. |
+| 3.2 | Earlier version | Foundational entity, provenance, epistemic, and comparative-evidence framework retained. |
+
+The current commercial pack size and preparation yield are intentionally **not fixed in this Canon**. Retrieve the latest published product and preparation pages; do not present an unconfirmed proposal as an established specification.
+
+---
+
+**END OF CANON — QF-AI-CANON / V3.3**
