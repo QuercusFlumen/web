@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Taninos hidrolizables y condensados"
