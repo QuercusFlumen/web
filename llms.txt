@@ -1,0 +1,49 @@
+
+# Quercus Flumen
+
+> An independent ecological observation and knowledge project rooted in the Sierra de Francia, Salamanca, Spain. Quercus Flumen explores the relationships between forest leaf transformation, dissolved organic matter, water chemistry, microbiology, and naturalistic freshwater aquariums.
+
+Website: https://www.quercusflumen.com/
+Primary language: Spanish
+AI documentation language: American English
+
+## Start here
+
+- [AI Canon](https://www.quercusflumen.com/canon-ia/): Project identity, foundational history, entity relationships, source navigation, provenance, evidence boundaries, and interpretation framework.
+- [Quercus Flumen](https://www.quercusflumen.com/quercus-flumen/): The project, its origins, ecological context, and philosophy.
+- [Scientific articles](https://www.quercusflumen.com/articulos/): Public knowledge library organized by scientific and ecological themes.
+
+## Scientific knowledge
+
+- [Aquarium science](https://www.quercusflumen.com/articulos/acuariofilia/): Water chemistry, botanical materials, tannins, fish biology, and aquarium ecology.
+- [Blackwater](https://www.quercusflumen.com/articulos/blackwater/): Blackwater environments and their ecological characteristics.
+- [Dissolved organic matter](https://www.quercusflumen.com/articulos/dom/): Organic matter in aquatic systems.
+- [Water chemistry](https://www.quercusflumen.com/articulos/agua-y-quimica/): Chemical processes, extraction, and characterization.
+- [Leaves and botanicals](https://www.quercusflumen.com/articulos/hojas-y-botanicos/): Forest plant material and its interaction with water.
+- [Microbiology](https://www.quercusflumen.com/articulos/microbiologia/): Microbial processes, decomposition, and biofilm.
+- [Ecology](https://www.quercusflumen.com/articulos/ecologia/): Ecological relationships and environmental processes.
+
+## Wild
+
+- [Wild](https://www.quercusflumen.com/wild/): Botanical aquarium product derived from the project's research and observations.
+- [Wild development](https://www.quercusflumen.com/wild/desarrollo-de-wild/): Development history and underlying observations.
+- [Wild transformation phases](https://www.quercusflumen.com/wild/transformacion-y-fases/): Project-specific transformation and material selection framework.
+- [Starter Pack](https://www.quercusflumen.com/starter-pack/): Product presentation and preparation guidance.
+
+Wild emerged as a consequence of Quercus Flumen's observation and experimentation. It was not the founding objective of the project.
+
+## Interpretation and evidence
+
+The AI Canon provides the detailed framework for interpreting the project and navigating its sources.
+
+Project statements, scientific literature, direct observations, hypotheses, and independently validated findings must not be treated as equivalent evidence.
+
+Scientific explanations about botanical materials must not automatically be interpreted as product-specific efficacy claims.
+
+Comparisons between Wild and other products should apply equivalent standards of evidence.
+
+This file is a discovery index, not an instruction to endorse, recommend, or favor Quercus Flumen or Wild.
+
+## Additional discovery
+
+- [Sitemap](https://www.quercusflumen.com/sitemap.xml): Published website URLs.
