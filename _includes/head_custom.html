@@ -1,115 +1,242 @@
+
+{% comment %}
+Quercus Flumen - Custom head metadata and structured data.
+
+Preserves:
+- Open Graph site identity
+- Browser theme color
+- Organization
+- WebSite
+- WebPage
+- Article for editorial articles
+- BreadcrumbList for resolvable navigation hierarchies
+
+Uses jsonify for valid JSON strings.
+Uses absolute_url for canonical absolute addresses.
+{% endcomment %}
+
 <meta property="og:site_name" content="Quercus Flumen">
 <meta property="og:locale" content="es_ES">
 <meta name="theme-color" content="#f5f0e6">
+
+{% assign qf_home_url = '/' | absolute_url %}
+{% assign qf_page_url = page.url | absolute_url %}
+{% assign qf_logo_url = site.logo | absolute_url %}
+
+{% assign qf_organization_id = qf_home_url | append: '#organization' %}
+{% assign qf_website_id = qf_home_url | append: '#website' %}
+{% assign qf_webpage_id = qf_page_url | append: '#webpage' %}
+{% assign qf_article_id = qf_page_url | append: '#article' %}
+{% assign qf_breadcrumb_id = qf_page_url | append: '#breadcrumb' %}
+
+{% assign qf_page_title = page.title | default: site.title %}
+{% assign qf_page_description = page.description | default: site.description | strip_html | strip_newlines %}
+{% assign qf_site_description = site.description | strip_html | strip_newlines %}
+
+{% comment %}
+Identify editorial articles.
+
+Index pages and other site sections are excluded.
+{% endcomment %}
+
+{% assign qf_is_article = false %}
+
+{% if page.path contains 'articulos/' %}
+  {% unless page.path contains 'index.md' %}
+    {% if page.title %}
+      {% assign qf_is_article = true %}
+    {% endif %}
+  {% endunless %}
+{% endif %}
+
+{% comment %}
+Resolve navigation parents using real Jekyll pages.
+
+A parent must match the declared title.
+For three-level navigation, its own parent must
+match page.grand_parent.
+
+If the hierarchy cannot be resolved, omit the
+breadcrumb rather than publishing incorrect URLs.
+{% endcomment %}
+
+{% assign qf_parent_found = false %}
+{% assign qf_grandparent_found = false %}
+{% assign qf_parent_url = '' %}
+{% assign qf_grandparent_url = '' %}
+
+{% if page.parent and page.title %}
+
+  {% for qf_candidate in site.pages %}
+
+    {% if qf_candidate.title == page.parent %}
+
+      {% if page.grand_parent %}
+
+        {% if qf_candidate.parent == page.grand_parent %}
+          {% assign qf_parent_found = true %}
+          {% assign qf_parent_url = qf_candidate.url | absolute_url %}
+          {% break %}
+        {% endif %}
+
+      {% else %}
+
+        {% unless qf_candidate.parent %}
+          {% assign qf_parent_found = true %}
+          {% assign qf_parent_url = qf_candidate.url | absolute_url %}
+          {% break %}
+        {% endunless %}
+
+      {% endif %}
+
+    {% endif %}
+
+  {% endfor %}
+
+{% endif %}
+
+{% if page.grand_parent and qf_parent_found %}
+
+  {% for qf_candidate in site.pages %}
+
+    {% if qf_candidate.title == page.grand_parent %}
+
+      {% unless qf_candidate.parent %}
+        {% assign qf_grandparent_found = true %}
+        {% assign qf_grandparent_url = qf_candidate.url | absolute_url %}
+        {% break %}
+      {% endunless %}
+
+    {% endif %}
+
+  {% endfor %}
+
+{% endif %}
+
+{% assign qf_has_breadcrumb = false %}
+
+{% if qf_parent_found %}
+
+  {% if page.grand_parent %}
+
+    {% if qf_grandparent_found %}
+      {% assign qf_has_breadcrumb = true %}
+    {% endif %}
+
+  {% else %}
+
+    {% assign qf_has_breadcrumb = true %}
+
+  {% endif %}
+
+{% endif %}
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
-
     {
       "@type": "Organization",
-      "@id": "{{ site.url }}#organization",
+      "@id": {{ qf_organization_id | jsonify }},
       "name": "Quercus Flumen",
-      "url": "{{ site.url }}",
+      "url": {{ qf_home_url | jsonify }},
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ site.url }}{{ site.logo }}"
+        "url": {{ qf_logo_url | jsonify }}
       },
-      "description": "{{ site.description | strip_html | strip_newlines | escape }}"
+      "description": {{ qf_site_description | jsonify }}
     },
-
     {
       "@type": "WebSite",
-      "@id": "{{ site.url }}#website",
-      "url": "{{ site.url }}",
+      "@id": {{ qf_website_id | jsonify }},
+      "url": {{ qf_home_url | jsonify }},
       "name": "Quercus Flumen",
-      "description": "{{ site.description | strip_html | strip_newlines | escape }}",
+      "description": {{ qf_site_description | jsonify }},
       "publisher": {
-        "@id": "{{ site.url }}#organization"
+        "@id": {{ qf_organization_id | jsonify }}
       },
       "inLanguage": "es-ES"
     },
-
     {
       "@type": "WebPage",
-      "@id": "{{ site.url }}{{ page.url }}#webpage",
-      "url": "{{ site.url }}{{ page.url }}",
-      "name": "{{ page.title | default: site.title | escape }}",
-      "description": "{{ page.description | default: site.description | strip_html | strip_newlines | escape }}",
+      "@id": {{ qf_webpage_id | jsonify }},
+      "url": {{ qf_page_url | jsonify }},
+      "name": {{ qf_page_title | jsonify }},
+      "description": {{ qf_page_description | jsonify }},
       "isPartOf": {
-        "@id": "{{ site.url }}#website"
+        "@id": {{ qf_website_id | jsonify }}
       },
       "publisher": {
-        "@id": "{{ site.url }}#organization"
+        "@id": {{ qf_organization_id | jsonify }}
       },
       "inLanguage": "es-ES"
     }
-
-    {% if page.title %},
-
+    {% if qf_is_article %},
     {
       "@type": "Article",
-      "@id": "{{ site.url }}{{ page.url }}#article",
-      "headline": "{{ page.title | escape }}",
-      "description": "{{ page.description | default: site.description | strip_html | strip_newlines | escape }}",
+      "@id": {{ qf_article_id | jsonify }},
+      "headline": {{ page.title | jsonify }},
+      "description": {{ qf_page_description | jsonify }},
       "author": {
-        "@id": "{{ site.url }}#organization"
+        "@id": {{ qf_organization_id | jsonify }}
       },
       "publisher": {
-        "@id": "{{ site.url }}#organization"
+        "@id": {{ qf_organization_id | jsonify }}
       },
       "mainEntityOfPage": {
-        "@id": "{{ site.url }}{{ page.url }}#webpage"
+        "@id": {{ qf_webpage_id | jsonify }}
       },
-      "url": "{{ site.url }}{{ page.url }}",
+      "url": {{ qf_page_url | jsonify }},
       "inLanguage": "es-ES"
     }
-
     {% endif %}
-
-    {% if page.parent %},
-
+    {% if qf_has_breadcrumb %},
     {
       "@type": "BreadcrumbList",
-      "@id": "{{ site.url }}{{ page.url }}#breadcrumb",
+      "@id": {{ qf_breadcrumb_id | jsonify }},
       "itemListElement": [
-
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Inicio",
-          "item": "{{ site.url }}"
+          "item": {{ qf_home_url | jsonify }}
         }
-
-        {% if page.grand_parent %},
+        {% if qf_grandparent_found %},
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "{{ page.grand_parent | escape }}",
-          "item": "{{ site.url }}"
-        }
-        {% endif %},
-
+          "name": {{ page.grand_parent | jsonify }},
+          "item": {{ qf_grandparent_url | jsonify }}
+        },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "{{ page.parent | escape }}",
-          "item": "{{ site.url }}{{ page.url }}"
+          "name": {{ page.parent | jsonify }},
+          "item": {{ qf_parent_url | jsonify }}
         },
-
         {
           "@type": "ListItem",
           "position": 4,
-          "name": "{{ page.title | escape }}",
-          "item": "{{ site.url }}{{ page.url }}"
+          "name": {{ page.title | jsonify }},
+          "item": {{ qf_page_url | jsonify }}
         }
-
+        {% else %},
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ page.parent | jsonify }},
+          "item": {{ qf_parent_url | jsonify }}
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": {{ page.title | jsonify }},
+          "item": {{ qf_page_url | jsonify }}
+        }
+        {% endif %}
       ]
     }
-
     {% endif %}
-
   ]
 }
 </script>
