@@ -148,6 +148,21 @@ La estabilidad biológica:
 
 No aparece de forma instantánea.
 
+
+---
+
+## Nitrificación y ciclo del nitrógeno
+
+### [Nitrificación en acuarios ácidos: bacterias, arqueas y ciclo del nitrógeno](/articulos/microbiologia/nitrificacion-acuarios-acidos/)
+
+¿Se detiene la filtración biológica cuando el pH desciende por debajo de 6?
+
+La investigación científica muestra una realidad más compleja: arqueas oxidantes de amoníaco, bacterias especializadas, biofilms y diferentes vías de transformación del nitrógeno.
+
+Un análisis basado en estudios científicos sobre filtros de acuarios y microorganismos acidófilos, que distingue entre capacidad metabólica demostrada, funcionamiento ecológico e hipótesis pendientes de investigación.
+
+**Temas:** nitrificación · arqueas AOA · bacterias AOB · comammox · amoníaco y amonio · pH ácido · acuarios blackwater.
+
 ---
 
 ## Dentro de esta sección
