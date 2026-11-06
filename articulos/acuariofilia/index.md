@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Acuariofilia: guía científica de acuarios de agua dulce"
+title: Acuariofilia
 parent: Artículos
 nav_order: 9
 nav_exclude: false
 has_children: true
-description: "Guías científicas de acuariofilia: pH, KH, GH, taninos, aguas negras, biotopos amazónicos, hojas de catappa, peces y biofilm."
+description: "Guías científicas de acuariofilia, pH, KH, GH, taninos, aguas negras, biotopos amazónicos, hojas de catappa, peces y biofilm."
 ---
 
 # Acuariofilia: ciencia y guías para acuarios de agua dulce
